@@ -109,13 +109,16 @@
       "lush_savanna": "2025-06-27 19:16:12 +0000",
       "highland": "2025-06-25 23:33:18 +0000",
       "jacaranda_glade": "2025-06-26 18:24:44 +0000",
+      "wetland": "2025-06-28 23:25:20 +0000",
       "cold_desert": "2025-06-28 22:44:40 +0000",
       "old_growth_woodland": "2025-06-27 17:12:53 +0000",
       "orchard": "2025-06-24 23:11:22 +0000",
+      "field": "2025-06-28 23:26:02 +0000",
       "overgrown_greens": "2025-06-25 22:57:39 +0000",
       "mediterranean_forest": "2025-06-27 17:24:05 +0000",
       "coniferous_forest": "2025-06-28 22:42:30 +0000",
       "spider_nest": "2025-06-24 21:56:20 +0000",
+      "forested_field": "2025-06-28 23:25:28 +0000",
       "dryland": "2025-06-28 22:03:36 +0000",
       "wasteland": "2025-06-27 19:26:08 +0000",
       "lush_desert": "2025-06-28 22:03:51 +0000",
@@ -590,6 +593,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-06-28 23:31:29 +0000",
       "plains": "2025-06-24 21:58:50 +0000",
       "savanna": "2025-06-27 19:40:08 +0000",
       "snowy": "2025-06-28 22:44:49 +0000"
@@ -599,6 +603,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-28 22:44:23 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-06-28 23:25:41 +0000",
+      "minecraft:taiga": "2025-06-28 23:30:15 +0000",
       "minecraft:deep_ocean": "2025-06-26 19:05:48 +0000",
       "minecraft:frozen_river": "2025-06-28 22:46:37 +0000",
       "minecraft:cherry_grove": "2025-06-24 22:13:53 +0000",
@@ -611,10 +617,13 @@
       "minecraft:river": "2025-06-24 21:58:54 +0000",
       "minecraft:lukewarm_ocean": "2025-06-28 22:28:01 +0000",
       "minecraft:stony_shore": "2025-06-26 18:50:34 +0000",
+      "minecraft:snowy_plains": "2025-06-28 23:21:12 +0000",
       "minecraft:dripstone_caves": "2025-06-24 22:13:45 +0000",
       "minecraft:snowy_taiga": "2025-06-28 22:47:20 +0000",
+      "minecraft:swamp": "2025-06-28 23:24:58 +0000",
       "minecraft:cold_ocean": "2025-06-28 23:03:10 +0000",
       "minecraft:forest": "2025-06-24 23:10:59 +0000",
+      "minecraft:ice_spikes": "2025-06-28 23:20:48 +0000",
       "minecraft:frozen_ocean": "2025-06-28 22:50:03 +0000",
       "minecraft:desert": "2025-06-27 19:16:33 +0000",
       "minecraft:ocean": "2025-06-26 18:48:16 +0000",
@@ -623,6 +632,7 @@
       "minecraft:warm_ocean": "2025-06-28 22:05:17 +0000",
       "minecraft:frozen_peaks": "2025-06-24 22:25:24 +0000",
       "minecraft:meadow": "2025-06-24 23:09:29 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-06-28 23:21:23 +0000",
       "minecraft:savanna": "2025-06-27 17:16:37 +0000",
       "minecraft:plains": "2025-06-24 22:12:08 +0000"
     },
@@ -8916,6 +8926,12 @@
     },
     "done": true
   },
+  "vampiresdelight:recipes/cooking/weird_jelly_block": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
@@ -8925,6 +8941,12 @@
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/pure_sorbet": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
     },
     "done": true
   },
@@ -8940,6 +8962,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
@@ -8949,6 +8977,12 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-06-28 23:24:42 +0000"
     },
     "done": true
   },
@@ -8982,6 +9016,30 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-06-28 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-28 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
@@ -9000,6 +9058,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-28 23:24:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
@@ -9015,6 +9079,12 @@
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
     },
     "done": true
   },
@@ -9039,6 +9109,24 @@
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-06-28 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
     },
     "done": true
   },

@@ -133,6 +133,7 @@
       "lavender_field": "2025-06-24 22:51:29 +0000",
       "prairie": "2025-06-24 16:59:22 +0000",
       "snowy_coniferous_forest": "2025-06-28 22:42:41 +0000",
+      "snowy_fir_clearing": "2025-06-28 23:26:42 +0000",
       "tundra": "2025-06-28 22:33:57 +0000",
       "gravel_beach": "2025-06-28 22:32:53 +0000",
       "rainforest": "2025-06-27 19:14:04 +0000"
@@ -187,6 +188,7 @@
       "minecraft:snowy_taiga": "2025-06-28 22:56:48 +0000",
       "minecraft:grove": "2025-06-24 22:27:54 +0000",
       "minecraft:forest": "2025-06-24 22:45:02 +0000",
+      "minecraft:ice_spikes": "2025-06-28 23:30:39 +0000",
       "minecraft:desert": "2025-06-27 19:19:46 +0000",
       "minecraft:ocean": "2025-06-26 18:48:11 +0000",
       "minecraft:jungle": "2025-06-27 19:05:35 +0000",
@@ -11530,6 +11532,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-06-28 23:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-28 23:02:00 +0000"
@@ -11539,6 +11547,18 @@
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-06-28 23:01:52 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_ancient_anima": "2025-06-28 23:35:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-28 23:19:22 +0000"
     },
     "done": true
   },
@@ -11563,6 +11583,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-06-28 23:02:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-06-28 23:19:22 +0000"
     },
     "done": true
   },
@@ -11650,9 +11676,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-28 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-06-28 23:19:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-06-28 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-28 23:35:19 +0000"
     },
     "done": true
   },
@@ -11662,15 +11706,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-06-28 23:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2025-06-28 23:32:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_helmet_repairing": {
     "criteria": {
       "has_chainmail_helmet": "2025-06-28 22:55:39 +0000"
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2025-06-28 23:35:40 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-06-28 23:35:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-06-28 22:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-28 23:32:40 +0000"
     },
     "done": true
   },
@@ -11719,6 +11793,12 @@
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2025-06-28 22:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-28 23:35:19 +0000"
     },
     "done": true
   },
