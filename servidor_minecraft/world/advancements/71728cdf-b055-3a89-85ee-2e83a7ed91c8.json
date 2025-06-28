@@ -103,13 +103,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-06-28 22:20:30 +0000",
       "scrubland": "2025-06-26 21:05:57 +0000",
       "erupting_inferno": "2025-06-26 01:48:20 +0000",
       "floodplain": "2025-06-27 19:14:03 +0000",
       "lush_savanna": "2025-06-27 19:19:56 +0000",
       "highland": "2025-06-26 01:20:31 +0000",
       "jacaranda_glade": "2025-06-26 19:55:23 +0000",
+      "cold_desert": "2025-06-28 22:34:31 +0000",
       "old_growth_woodland": "2025-06-26 22:42:08 +0000",
+      "maple_woods": "2025-06-28 22:20:28 +0000",
       "crystalline_chasm": "2025-06-27 03:13:58 +0000",
       "orchard": "2025-06-24 22:52:43 +0000",
       "field": "2025-06-28 22:02:40 +0000",
@@ -120,6 +123,7 @@
       "wasteland": "2025-06-27 19:23:01 +0000",
       "lush_desert": "2025-06-27 19:28:57 +0000",
       "redwood_forest": "2025-06-24 20:33:08 +0000",
+      "aspen_glade": "2025-06-28 22:32:30 +0000",
       "dune_beach": "2025-06-26 18:47:00 +0000",
       "volcano": "2025-06-27 19:49:30 +0000",
       "pasture": "2025-06-26 19:08:20 +0000",
@@ -127,6 +131,8 @@
       "volcanic_plains": "2025-06-27 19:47:57 +0000",
       "lavender_field": "2025-06-24 22:51:29 +0000",
       "prairie": "2025-06-24 16:59:22 +0000",
+      "tundra": "2025-06-28 22:33:57 +0000",
+      "gravel_beach": "2025-06-28 22:32:53 +0000",
       "rainforest": "2025-06-27 19:14:04 +0000"
     },
     "done": false
@@ -152,7 +158,8 @@
   "morevillagers:all_villages": {
     "criteria": {
       "plains": "2025-06-24 17:03:41 +0000",
-      "savanna": "2025-06-27 20:01:34 +0000"
+      "savanna": "2025-06-27 20:01:34 +0000",
+      "snowy": "2025-06-28 22:34:33 +0000"
     },
     "done": false
   },
@@ -161,6 +168,7 @@
       "minecraft:snowy_slopes": "2025-06-24 22:24:22 +0000",
       "minecraft:taiga": "2025-06-28 22:02:06 +0000",
       "minecraft:deep_ocean": "2025-06-26 19:05:47 +0000",
+      "minecraft:frozen_river": "2025-06-28 22:33:50 +0000",
       "minecraft:cherry_grove": "2025-06-24 22:17:38 +0000",
       "minecraft:birch_forest": "2025-06-25 22:26:48 +0000",
       "minecraft:bamboo_jungle": "2025-06-27 19:13:34 +0000",
@@ -178,6 +186,7 @@
       "minecraft:desert": "2025-06-27 19:19:46 +0000",
       "minecraft:ocean": "2025-06-26 18:48:11 +0000",
       "minecraft:jungle": "2025-06-27 19:05:35 +0000",
+      "minecraft:snowy_beach": "2025-06-28 22:33:51 +0000",
       "minecraft:frozen_peaks": "2025-06-24 22:18:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-27 19:40:07 +0000",
       "minecraft:meadow": "2025-06-24 22:49:34 +0000",
@@ -785,6 +794,7 @@
       "minecraft:creeper": "2025-06-25 23:54:16 +0000",
       "minecraft:evoker": "2025-06-27 02:42:01 +0000",
       "minecraft:zombified_piglin": "2025-06-27 14:49:30 +0000",
+      "minecraft:witch": "2025-06-28 22:27:32 +0000",
       "minecraft:ender_dragon": "2025-06-27 03:39:50 +0000",
       "minecraft:shulker": "2025-06-27 04:15:56 +0000",
       "minecraft:cave_spider": "2025-06-24 20:52:50 +0000",
@@ -11488,6 +11498,66 @@
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2025-06-28 21:56:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-06-28 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-06-28 22:12:37 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-06-28 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-06-28 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-06-28 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-28 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-06-28 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-06-28 22:37:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-06-28 22:35:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-28 22:21:44 +0000"
     },
     "done": true
   },

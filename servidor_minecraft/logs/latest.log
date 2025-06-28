@@ -2724,3 +2724,115 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [28Jun2025 22:05:33.946] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.StarfallSpell@edd7f4f7
 [28Jun2025 22:06:48.667] [Server thread/INFO] [irons_spells_js/]: traveloptics:aqua_missiles
 [28Jun2025 22:06:48.668] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.AquaMissilesSpell@ab616390
+[28Jun2025 22:07:22.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[28Jun2025 22:07:43.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6595ms or 131 ticks behind
+[28Jun2025 22:08:41.073] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:root
+[28Jun2025 22:08:41.077] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.RootSpell@9f97110c
+[28Jun2025 22:08:41.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[28Jun2025 22:15:49.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[28Jun2025 22:15:49.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[28Jun2025 22:19:38.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:35495] logged in with entity id 28022 at (1700.4494725875581, 89.80030675019891, 954.3104091480297)
+[28Jun2025 22:19:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[28Jun2025 22:24:57.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Vampire Expert'/35017, l='ServerLevel[world]', x=234.12, y=69.00, z=171.53] died, message: 'Vampire Expert was slain by Vampire Hunter'
+[28Jun2025 22:25:41.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[28Jun2025 22:27:42.840] [Server thread/INFO] [irons_spells_js/]: traveloptics:bubble_spray
+[28Jun2025 22:27:42.840] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.BubbleSpraySpell@2bd2389a
+[28Jun2025 22:27:48.536] [Server thread/INFO] [irons_spells_js/]: traveloptics:flood_slash
+[28Jun2025 22:27:48.537] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.FloodSlashSpell@957dbb5c
+[28Jun2025 22:27:49.774] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ascension
+[28Jun2025 22:27:49.775] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.AscensionSpell@9f1d20b9
+[28Jun2025 22:27:57.391] [Server thread/INFO] [irons_spells_js/]: traveloptics:tsunami
+[28Jun2025 22:27:57.391] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.TsunamiSpell@4fb5eac5
+[28Jun2025 22:27:59.526] [Server thread/INFO] [irons_spells_js/]: traveloptics:hydroshot
+[28Jun2025 22:27:59.526] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.HydroshotSpell@54867f4a
+[28Jun2025 22:28:33.029] [Server thread/INFO] [irons_spells_js/]: traveloptics:rainfall
+[28Jun2025 22:28:33.033] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.RainfallSpell@936ec26f
+[28Jun2025 22:29:10.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3938666986873398
+[28Jun2025 22:29:10.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.154331690675266
+[28Jun2025 22:29:10.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.9941339171292558
+[28Jun2025 22:29:10.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.865907994041569
+[28Jun2025 22:29:10.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 3.7463047698216374
+[28Jun2025 22:29:15.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -4.677094047621608,1.2615077906826428,9.2443842235798
+[28Jun2025 22:29:15.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -4.760508453780176,0.906592060890901,9.736822935795317
+[28Jun2025 22:29:15.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -4.829364858974145,0.48889898586945435,10.219722831869149
+[28Jun2025 22:29:15.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -4.885372692151009,0.010914547315962864,10.694132986734076
+[28Jun2025 22:29:15.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -4.935320479217694,0.0,11.161311973995907
+[28Jun2025 22:29:15.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -5.084391326914101,0.0,12.006375429642503
+[28Jun2025 22:29:15.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -5.406343058973107,0.0,12.82709850889114
+[28Jun2025 22:29:15.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -5.916921263577478,0.0,13.549144176351547
+[28Jun2025 22:29:15.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -6.57515636271728,0.0,14.150506040091386
+[28Jun2025 22:29:15.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -7.3215804579240285,0.0,14.669956890244976
+[28Jun2025 22:29:15.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -8.114584397871909,0.0,15.146787299117932
+[28Jun2025 22:29:15.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -8.932512284038808,0.0,15.600812359621159
+[28Jun2025 22:29:15.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -9.764687563748566,0.0,16.040821272892572
+[28Jun2025 22:29:15.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -10.60418358158529,0.0,16.473935376281588
+[28Jun2025 22:29:15.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -11.44637644293232,-0.07683200149536162,16.905775342866036
+[28Jun2025 22:29:15.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -11.93816203373899,-0.2274534586630068,17.15271567037871
+[28Jun2025 22:29:15.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.396189034465579,-0.4489423104376016,17.37533631007136
+[28Jun2025 22:29:15.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-0.6274895728164296,17.53731985603008
+[28Jun2025 22:29:15.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-0.33348956113391637,17.64986706314903
+[28Jun2025 22:29:15.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-0.03948954945140315,17.722717083051975
+[28Jun2025 22:29:15.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,0.25451046223111007,17.744904086137467
+[28Jun2025 22:29:15.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,0.460036077451079,17.729763042690138
+[28Jun2025 22:29:15.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,0.5805908806546682,17.68142006110702
+[28Jun2025 22:29:15.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,0.6195397144094414,17.603511319951394
+[28Jun2025 22:29:15.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,0.5801141735801991,17.516037555581534
+[28Jun2025 22:29:15.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! 3.565989306234087,2.9769118908984495,8.915092335792451
+[28Jun2025 22:29:15.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,0.46541788193549394,17.42003370326256
+[28Jun2025 22:29:15.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,0.2784315598006515,17.316422718291506
+[28Jun2025 22:29:15.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,0.02201789103183671,17.20602769222569
+[28Jun2025 22:29:15.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-0.3010738027419819,17.08958265813726
+[28Jun2025 22:29:15.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-0.688203072976961,16.977794244079632
+[28Jun2025 22:29:15.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-0.9966124253638213,16.882127020770895
+[28Jun2025 22:29:15.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-1.0,16.798338400688408
+[28Jun2025 22:29:15.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-1.0,16.721708998561553
+[28Jun2025 22:29:15.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-1.0,16.661631546398894
+[28Jun2025 22:29:15.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-1.0,16.614530823201676
+[28Jun2025 22:29:15.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-1.0,16.577603855665075
+[28Jun2025 22:29:15.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-1.0,16.548653112684406
+[28Jun2025 22:29:15.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -12.547925540252777,-1.0,16.525955729849557
+[28Jun2025 22:29:15.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[28Jun2025 22:29:15.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -7.97057018735768,-2.5510576895623984,7.766911608075134
+[28Jun2025 22:29:15.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -7.97057018735768,-2.5510576895623984,7.752960525115668
+[28Jun2025 22:29:15.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -7.97057018735768,-2.5510576895623984,7.74202287591288
+[28Jun2025 22:29:15.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -7.97057018735768,-2.5510576895623984,7.733447758810144
+[28Jun2025 22:29:22.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -248.71951320579115,9.5,-526.9248064298472
+[28Jun2025 22:30:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Tie me to the Mast]
+[28Jun2025 22:31:15.646] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 22:32:15.839] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:invisibility
+[28Jun2025 22:32:15.839] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.InvisibilitySpell@35399621
+[28Jun2025 22:32:18.188] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fang_strike
+[28Jun2025 22:32:18.188] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FangStrikeSpell@6f9ac2c7
+[28Jun2025 22:32:21.844] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firecracker
+[28Jun2025 22:32:21.844] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FirecrackerSpell@6407391b
+[28Jun2025 22:32:23.207] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:shield
+[28Jun2025 22:32:23.208] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.ShieldSpell@6989af93
+[28Jun2025 22:32:26.849] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[28Jun2025 22:32:26.849] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[28Jun2025 22:32:37.988] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 8 in "main" inventory handler
+[28Jun2025 22:32:55.758] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ray_of_siphoning
+[28Jun2025 22:32:55.758] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RayOfSiphoningSpell@c5ef394c
+[28Jun2025 22:33:01.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[28Jun2025 22:33:01.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[28Jun2025 22:33:59.167] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:33:59.361] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:33:59.445] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:33:59.454] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:33:59.454] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:33:59.654] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:33:59.808] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:33:59.845] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:33:59.933] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[28Jun2025 22:34:04.505] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/53261, l='ServerLevel[world]', x=-2937.50, y=54.00, z=3582.50]
+[28Jun2025 22:34:08.732] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1fb35e6a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:57981): Took too long to log in
+[28Jun2025 22:34:08.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fb35e6a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:57981) lost connection: Took too long to log in
+[28Jun2025 22:34:08.779] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 22:35:11.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:45815] logged in with entity id 54902 at (-1357.032724403488, 61.61520942418443, 4102.728612764814)
+[28Jun2025 22:35:12.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[28Jun2025 22:35:29.696] [Server thread/INFO] [irons_spells_js/]: traveloptics:solar_flare
+[28Jun2025 22:35:29.696] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.compat.spells.holy.SolarFlareSpell@7ab96d30
+[28Jun2025 22:35:42.843] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wall_of_fire
+[28Jun2025 22:35:42.843] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.WallOfFireSpell@69540e53
+[28Jun2025 22:38:23.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Another Kind of Slime]
+[28Jun2025 22:38:52.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[28Jun2025 22:38:52.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
