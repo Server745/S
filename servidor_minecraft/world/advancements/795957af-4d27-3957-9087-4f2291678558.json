@@ -9416,105 +9416,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 02:16:46 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/defeat_mine_guardian": {
-    "criteria": {
-      "killed": "2025-06-29 00:52:31 +0000"
+      "has_snowball": "2025-06-29 00:38:32 +0000"
     },
     "done": true
   },
-  "vampiresdelight:recipes/building_blocks/bamboo_wine_shelf": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_bamboo_slab": "2025-06-29 01:52:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2025-06-29 01:14:15 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_remnant": {
-    "criteria": {
-      "ignis": "2025-06-29 02:08:08 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/mussel": {
-    "criteria": {
-      "mussel": "2025-06-29 01:00:24 +0000"
+      "has_snowball": "2025-06-29 00:38:32 +0000"
     },
     "done": true
   },
@@ -9524,9 +9434,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/pearl": {
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
     "criteria": {
-      "pearl": "2025-06-29 01:06:33 +0000"
+      "abyssal_ruins": "2025-06-29 00:52:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-06-29 00:52:31 +0000"
     },
     "done": true
   },
@@ -9536,9 +9452,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "alexscaves:alexscaves/stalked_by_deep_one": {
     "criteria": {
-      "has_snowball": "2025-06-29 00:38:32 +0000"
+      "stalked_by_deep_one": "2025-06-29 00:57:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-06-29 01:00:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-06-29 01:06:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-06-29 01:14:15 +0000"
     },
     "done": true
   },
@@ -9554,57 +9488,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
-    "criteria": {
-      "has_bamboo_slab": "2025-06-29 01:52:28 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_trade": {
-    "criteria": {
-      "villagertrade": "2025-06-29 01:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-06-29 01:42:45 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_all_bosses": {
-    "criteria": {
-      "cataclysm:ancient_remnant": "2025-06-29 02:08:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-06-29 01:49:21 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/bamboo_banister": {
-    "criteria": {
-      "has_item": "2025-06-29 01:52:28 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
-    "criteria": {
-      "abyssal_ruins": "2025-06-29 00:52:23 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2025-06-29 01:14:15 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/stalked_by_deep_one": {
-    "criteria": {
-      "stalked_by_deep_one": "2025-06-29 00:57:10 +0000"
     },
     "done": true
   },
@@ -9614,9 +9500,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_snowball": "2025-06-29 00:38:32 +0000"
+      "has_lilac": "2025-06-29 01:42:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-06-29 01:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-29 01:49:21 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/bamboo_wine_shelf": {
+    "criteria": {
+      "has_bamboo_slab": "2025-06-29 01:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-06-29 01:52:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/bamboo_banister": {
+    "criteria": {
+      "has_item": "2025-06-29 01:52:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-06-29 02:08:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ancient_remnant": "2025-06-29 02:08:08 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-06-29 16:59:13 +0000"
     },
     "done": true
   },

@@ -12118,77 +12118,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
+      "has_cut_sandstone": "2025-06-29 16:14:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
+      "has_cut_sandstone": "2025-06-29 16:14:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
+      "has_redstone_block": "2025-06-29 16:28:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
+      "has_redstone_block": "2025-06-29 16:28:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "celestial_artifacts:recipes/misc/prayer_crown": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
+      "has_redstone_block": "2025-06-29 16:28:52 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 16:39:20 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
@@ -12202,21 +12160,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-29 16:14:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-29 16:36:01 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-06-29 16:28:52 +0000"
     },
     "done": true
   },
@@ -12238,18 +12184,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-06-29 16:28:52 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/prayer_crown": {
-    "criteria": {
-      "has_redstone_block": "2025-06-29 16:28:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-29 16:36:01 +0000"
@@ -12262,15 +12196,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-29 16:14:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-29 16:36:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-29 17:09:25 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-06-29 16:55:19 +0000"
     },
     "done": true
   },

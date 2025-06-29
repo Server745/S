@@ -2785,3 +2785,100 @@ java.lang.Throwable: null
 [29Jun2025 16:40:03.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [29Jun2025 16:40:03.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
 [29Jun2025 16:40:03.692] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 16:50:33.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:38905] logged in with entity id 26562 at (-827.771397097064, 99.5, 4129.740427168493)
+[29Jun2025 16:50:33.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[29Jun2025 16:51:18.238] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ray_of_siphoning
+[29Jun2025 16:51:18.239] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RayOfSiphoningSpell@c5ef394c
+[29Jun2025 16:53:16.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/28149, l='ServerLevel[world]', x=-1107.30, y=71.01, z=1786.39] died, message: 'Forester was slain by Zombie'
+[29Jun2025 16:53:46.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:41211] logged in with entity id 28684 at (-830.0882295477383, 43.0, 4149.077477307392)
+[29Jun2025 16:53:46.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[29Jun2025 16:58:44.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Jun2025 16:59:06.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=64, z=173} BlockPos{x=81, y=63, z=172}
+[29Jun2025 16:59:13.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sunken City]
+[29Jun2025 16:59:22.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[29Jun2025 16:59:32.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[29Jun2025 16:59:32.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[29Jun2025 16:59:32.111] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 16:59:50.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/116, l='ServerLevel[world]', x=138.34, y=77.00, z=243.48] died, message: 'Florist was slain by Zombie'
+[29Jun2025 17:00:43.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=89, y=64, z=168} BlockPos{x=89, y=63, z=167}
+[29Jun2025 17:01:31.053] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7cbb4b94[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:60699): Took too long to log in
+[29Jun2025 17:01:31.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7cbb4b94[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:60699) lost connection: Took too long to log in
+[29Jun2025 17:01:31.105] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 17:03:23.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=194} BlockPos{x=104, y=66, z=194}
+[29Jun2025 17:03:23.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=194} BlockPos{x=104, y=66, z=194}
+[29Jun2025 17:03:23.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=194} BlockPos{x=104, y=66, z=194}
+[29Jun2025 17:03:23.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=68, z=194} BlockPos{x=104, y=66, z=194}
+[29Jun2025 17:03:23.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=68, z=194} BlockPos{x=104, y=66, z=194}
+[29Jun2025 17:03:23.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=68, z=194} BlockPos{x=104, y=66, z=194}
+[29Jun2025 17:03:23.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=68, z=194} BlockPos{x=104, y=66, z=194}
+[29Jun2025 17:03:23.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=194} BlockPos{x=104, y=66, z=194}
+[29Jun2025 17:04:10.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1afe0b2c[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:42879): Took too long to log in
+[29Jun2025 17:04:10.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1afe0b2c[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:42879) lost connection: Took too long to log in
+[29Jun2025 17:04:10.191] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 17:04:52.143] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d5d52[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:59077) lost connection: Timed out
+[29Jun2025 17:04:59.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=64, z=191} BlockPos{x=104, y=63, z=193}
+[29Jun2025 17:04:59.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=64, z=191} BlockPos{x=104, y=63, z=193}
+[29Jun2025 17:04:59.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=64, z=191} BlockPos{x=104, y=63, z=193}
+[29Jun2025 17:05:23.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:40681] logged in with entity id 37498 at (137.42360700807396, 91.85019340695852, 4994.405656230612)
+[29Jun2025 17:05:23.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[29Jun2025 17:05:28.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3422ms or 68 ticks behind
+[29Jun2025 17:05:52.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=64, z=206} BlockPos{x=103, y=63, z=208}
+[29Jun2025 17:05:52.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=64, z=206} BlockPos{x=103, y=63, z=208}
+[29Jun2025 17:05:52.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=64, z=206} BlockPos{x=103, y=63, z=208}
+[29Jun2025 17:08:11.975] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:summon_horse
+[29Jun2025 17:08:11.975] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SummonHorseSpell@b2b70329
+[29Jun2025 17:08:34.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.5376754254398,79.0,1519.447828390034
+[29Jun2025 17:08:34.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.474796118723,79.0,1519.1252146527884
+[29Jun2025 17:08:34.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.4411506553768,79.0,1518.9525904742122
+[29Jun2025 17:08:34.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.4231476387586,79.0,1518.860222718011
+[29Jun2025 17:08:34.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.4135145835075,78.92316799850465,1518.8107985732822
+[29Jun2025 17:08:34.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.4083601277052,78.772546541337,1518.784352698849
+[29Jun2025 17:08:34.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.4037633838882,78.55105768956241,1518.7607682673497
+[29Jun2025 17:08:35.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3996640076339,78.26150779068266,1518.7397356707324
+[29Jun2025 17:08:35.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.396008183785,77.90659206089092,1518.7209788005287
+[29Jun2025 17:08:35.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3927479199826,77.48889898586947,1518.7042514231987
+[29Jun2025 17:08:35.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3927479199826,77.01091454731599,1518.689333947666
+[29Jun2025 17:08:35.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3927479199826,76.47502628209938,1518.6760305426026
+[29Jun2025 17:08:35.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3927479199826,75.88352718067316,1518.664166565625
+[29Jun2025 17:08:35.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3927479199826,75.23861943111172,1518.6535862706517
+[29Jun2025 17:08:35.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3927479199826,74.54241801488294,1518.6441507633224
+[29Jun2025 17:08:35.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3927479199826,73.79695416022804,1518.6357361776436
+[29Jun2025 17:08:35.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.3927479199826,73.00417865878791,1518.628232049919
+[29Jun2025 17:08:35.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.4124125807623,72.16596505089086,1518.6178473760597
+[29Jun2025 17:08:35.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.449625421917,71.28411268470327,1518.604954178799
+[29Jun2025 17:08:35.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.4828118346154,70.36034965423775,1518.5934560251505
+[29Jun2025 17:08:35.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.5124074783128,69.3963356210163,1518.5832019714314
+[29Jun2025 17:08:35.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.5388008741227,68.39366452399571,1518.574057406061
+[29Jun2025 17:08:35.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.5623385051842,67.35386718217981,1518.5659022824286
+[29Jun2025 17:08:35.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.58332936517,66.27841379416856,1518.5586295429637
+[29Jun2025 17:08:35.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.6020490146448,65.1687163387248,1518.552143713722
+[29Jun2025 17:08:35.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.6187431985275,64.02613088027877,1518.5463596510376
+[29Jun2025 17:08:35.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.633631072143,62.85195978313462,1518.541201423787
+[29Jun2025 17:08:35.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.6469080782163,61.64745383799439,1518.5366013165924
+[29Jun2025 17:08:36.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.6587485125735,60.413814304271696,1518.532498940878
+[29Jun2025 17:08:36.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1174.6693078122375,59.15219487152986,1518.5288404421103
+[29Jun2025 17:08:51.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Forester'/112, l='ServerLevel[world]', x=172.70, y=71.00, z=187.22] died, message: 'Forester was slain by Vampire Hunter'
+[29Jun2025 17:09:17.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=67, z=172} BlockPos{x=96, y=64, z=172}
+[29Jun2025 17:09:17.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=67, z=172} BlockPos{x=96, y=64, z=172}
+[29Jun2025 17:09:17.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=67, z=172} BlockPos{x=96, y=64, z=172}
+[29Jun2025 17:09:23.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=175} BlockPos{x=96, y=66, z=175}
+[29Jun2025 17:09:23.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=175} BlockPos{x=96, y=66, z=175}
+[29Jun2025 17:09:23.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=175} BlockPos{x=96, y=66, z=175}
+[29Jun2025 17:09:23.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=175} BlockPos{x=96, y=66, z=175}
+[29Jun2025 17:09:23.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=175} BlockPos{x=96, y=66, z=175}
+[29Jun2025 17:09:23.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=67, z=175} BlockPos{x=96, y=66, z=175}
+[29Jun2025 17:09:55.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=67, z=172} BlockPos{x=103, y=63, z=172}
+[29Jun2025 17:09:56.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=65, z=172} BlockPos{x=100, y=64, z=172}
+[29Jun2025 17:09:56.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=65, z=172} BlockPos{x=100, y=64, z=172}
+[29Jun2025 17:10:05.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=65, z=175} BlockPos{x=105, y=64, z=175}
+[29Jun2025 17:10:05.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=65, z=175} BlockPos{x=105, y=64, z=175}
+[29Jun2025 17:10:12.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=65, z=185} BlockPos{x=104, y=64, z=185}
+[29Jun2025 17:10:14.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=66, z=183} BlockPos{x=103, y=66, z=184}
+[29Jun2025 17:10:14.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=66, z=183} BlockPos{x=103, y=66, z=184}
+[29Jun2025 17:10:14.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=66, z=183} BlockPos{x=103, y=66, z=184}
+[29Jun2025 17:10:14.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=66, z=183} BlockPos{x=103, y=66, z=184}
+[29Jun2025 17:10:14.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=66, z=183} BlockPos{x=103, y=66, z=184}
+[29Jun2025 17:10:14.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=66, z=183} BlockPos{x=103, y=66, z=184}
+[29Jun2025 17:10:14.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=66, z=183} BlockPos{x=103, y=66, z=184}
+[29Jun2025 17:10:14.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=66, z=183} BlockPos{x=103, y=66, z=184}
+[29Jun2025 17:10:28.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=67, z=174} BlockPos{x=98, y=63, z=173}
