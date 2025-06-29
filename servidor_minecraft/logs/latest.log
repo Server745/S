@@ -2741,3 +2741,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [29Jun2025 01:25:49.216] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29Jun2025 01:25:49.217] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29Jun2025 01:25:59.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:211:~:6036:1:false:0:Internal-overworld-waypoints
+[29Jun2025 01:26:41.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[29Jun2025 01:26:58.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[29Jun2025 01:28:21.500] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blaze_storm
+[29Jun2025 01:28:21.500] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.BlazeStormSpell@e4a3e556
+[29Jun2025 01:28:25.494] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firebolt
+[29Jun2025 01:28:25.494] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireboltSpell@7dcdb5f5
+[29Jun2025 01:28:30.835] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magma_bomb
+[29Jun2025 01:28:30.836] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.MagmaBombSpell@cd2419e4
+[29Jun2025 01:41:10.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Jun2025 01:41:28.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[29Jun2025 01:41:47.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3637ms or 72 ticks behind
+[29Jun2025 01:42:37.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/113174, l='ServerLevel[world]', x=244.27, y=79.05, z=6001.47] died, message: 'death.attack.traveloptics.aqua_missiles'
+[29Jun2025 01:42:39.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Nitwit'/113178, l='ServerLevel[world]', x=241.73, y=78.92, z=5997.44] died, message: 'death.attack.traveloptics.aqua_missiles'
+[29Jun2025 01:44:48.114] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
+[29Jun2025 01:44:48.114] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
+[29Jun2025 01:45:16.167] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
+[29Jun2025 01:45:16.167] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
+[29Jun2025 01:45:38.786] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wisp
+[29Jun2025 01:45:38.786] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.WispSpell@9f9940d9
+[29Jun2025 01:45:40.626] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:guiding_bolt
+[29Jun2025 01:45:40.626] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.GuidingBoltSpell@ecb08685
+[29Jun2025 01:46:10.734] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[29Jun2025 01:46:10.734] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[29Jun2025 01:48:39.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [What a Deal!]
+[29Jun2025 01:48:39.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [First Trade]
+[29Jun2025 01:49:21.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [What a Deal!]
+[29Jun2025 01:49:21.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [First Trade]
+[29Jun2025 01:54:29.587] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:gust
+[29Jun2025 01:54:29.587] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.GustSpell@9f9227f9
+[29Jun2025 02:00:50.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[29Jun2025 02:06:08.951] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ray_of_siphoning
+[29Jun2025 02:06:08.951] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RayOfSiphoningSpell@c5ef394c
+[29Jun2025 02:07:41.039] [Server thread/INFO] [irons_spells_js/]: traveloptics:sword_of_the_ancients
+[29Jun2025 02:07:41.039] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.holy.SwordOfTheAncientsSpell@6bd3414f
+[29Jun2025 02:08:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Death finds a Way]

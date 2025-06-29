@@ -12789,3 +12789,131 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [29Jun2025 01:26:20.322] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=245, y=-12, z=5812}
 [29Jun2025 01:26:34.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 01:26:34.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:26:41.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[29Jun2025 01:26:55.076] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=239, y=-12, z=5827}
+[29Jun2025 01:26:58.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[29Jun2025 01:27:07.552] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=214, y=-12, z=5847}
+[29Jun2025 01:27:07.553] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=213, y=-12, z=5843}
+[29Jun2025 01:27:07.555] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=221, y=-12, z=5842}
+[29Jun2025 01:27:07.556] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=231, y=-12, z=5848}
+[29Jun2025 01:27:08.296] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=221, y=-12, z=5842}
+[29Jun2025 01:28:21.500] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blaze_storm
+[29Jun2025 01:28:21.500] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.BlazeStormSpell@e4a3e556
+[29Jun2025 01:28:21.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:21.755] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:22.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:22.255] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:22.506] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:22.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:22.993] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:23.233] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:23.494] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:23.735] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:23.980] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:24.204] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:24.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:24.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:25.494] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firebolt
+[29Jun2025 01:28:25.494] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireboltSpell@7dcdb5f5
+[29Jun2025 01:28:26.905] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:27.164] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:27.426] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:27.683] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:27.942] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:28.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:28.450] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:28.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:28.947] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:29.217] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:29.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:29.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:29.940] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:30.193] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[29Jun2025 01:28:30.835] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magma_bomb
+[29Jun2025 01:28:30.836] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.MagmaBombSpell@cd2419e4
+[29Jun2025 01:31:37.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:31:37.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:36:37.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:36:37.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:40:28.321] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=210, y=-12, z=5934}
+[29Jun2025 01:40:28.408] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=225, y=1, z=5918}
+[29Jun2025 01:40:28.409] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=210, y=-12, z=5917}
+[29Jun2025 01:40:28.431] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=210, y=-12, z=5897}
+[29Jun2025 01:40:28.432] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=225, y=1, z=5918}
+[29Jun2025 01:40:28.640] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=205, y=-12, z=5848}
+[29Jun2025 01:40:28.715] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=213, y=-12, z=5843}
+[29Jun2025 01:40:28.716] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=196, y=-12, z=5842}
+[29Jun2025 01:40:28.716] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=205, y=-12, z=5848}
+[29Jun2025 01:40:28.717] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=195, y=-12, z=5843}
+[29Jun2025 01:40:58.203] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=188, y=-12, z=5848}
+[29Jun2025 01:40:58.364] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=188, y=-12, z=5874}
+[29Jun2025 01:40:58.365] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=-12, z=5873}
+[29Jun2025 01:40:58.365] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=190, y=-12, z=5881}
+[29Jun2025 01:40:58.504] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=195, y=-12, z=5843}
+[29Jun2025 01:40:58.505] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=177, y=-12, z=5855}
+[29Jun2025 01:40:58.505] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=179, y=-12, z=5842}
+[29Jun2025 01:40:58.506] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=188, y=-12, z=5848}
+[29Jun2025 01:40:59.126] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=179, y=-12, z=5842}
+[29Jun2025 01:41:02.254] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.3 and blood value 0 for entity iceandfire:myrmex_sentinel
+[29Jun2025 01:41:02.769] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=169, y=-12, z=5873}
+[29Jun2025 01:41:02.769] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=188, y=-12, z=5874}
+[29Jun2025 01:41:02.770] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=-12, z=5873}
+[29Jun2025 01:41:03.602] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=169, y=-12, z=5873}
+[29Jun2025 01:41:03.603] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=170, y=-12, z=5856}
+[29Jun2025 01:41:03.604] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=164, y=-12, z=5866}
+[29Jun2025 01:41:03.693] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=177, y=-12, z=5855}
+[29Jun2025 01:41:10.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Jun2025 01:41:28.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[29Jun2025 01:41:45.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:41:45.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:41:47.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3637ms or 72 ticks behind
+[29Jun2025 01:42:05.496] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 58.196s
+[29Jun2025 01:42:37.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/113174, l='ServerLevel[world]', x=244.27, y=79.05, z=6001.47] died, message: 'death.attack.traveloptics.aqua_missiles'
+[29Jun2025 01:42:39.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Nitwit'/113178, l='ServerLevel[world]', x=241.73, y=78.92, z=5997.44] died, message: 'death.attack.traveloptics.aqua_missiles'
+[29Jun2025 01:43:05.912] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[29Jun2025 01:43:41.677] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[29Jun2025 01:44:48.114] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
+[29Jun2025 01:44:48.114] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
+[29Jun2025 01:45:16.167] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
+[29Jun2025 01:45:16.167] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
+[29Jun2025 01:45:38.786] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wisp
+[29Jun2025 01:45:38.786] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.WispSpell@9f9940d9
+[29Jun2025 01:45:40.626] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:guiding_bolt
+[29Jun2025 01:45:40.626] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.GuidingBoltSpell@ecb08685
+[29Jun2025 01:46:10.734] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[29Jun2025 01:46:10.734] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[29Jun2025 01:46:46.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:46:46.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:48:39.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [What a Deal!]
+[29Jun2025 01:48:39.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [First Trade]
+[29Jun2025 01:49:03.249] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [ae015869-740e-4983-97b2-c02022671056]
+[29Jun2025 01:49:21.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [What a Deal!]
+[29Jun2025 01:49:21.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [First Trade]
+[29Jun2025 01:51:46.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:51:46.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:52:15.010] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:rain_frog
+[29Jun2025 01:54:29.587] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:gust
+[29Jun2025 01:54:29.587] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.GustSpell@9f9227f9
+[29Jun2025 01:56:46.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:56:46.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 02:00:50.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[29Jun2025 02:01:32.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [ad1b4dda-ee57-4868-864a-878fe98322b7]
+[29Jun2025 02:01:46.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 02:01:46.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 02:04:20.423] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a46c8189-51bc-4932-8665-e04e8521de07]
+[29Jun2025 02:04:35.142] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [a46c8189-51bc-4932-8665-e04e8521de07]
+[29Jun2025 02:05:18.353] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a46c8189-51bc-4932-8665-e04e8521de07]
+[29Jun2025 02:06:08.951] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ray_of_siphoning
+[29Jun2025 02:06:08.951] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RayOfSiphoningSpell@c5ef394c
+[29Jun2025 02:06:46.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 02:06:46.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 02:06:48.349] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [a46c8189-51bc-4932-8665-e04e8521de07]
+[29Jun2025 02:07:30.422] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a46c8189-51bc-4932-8665-e04e8521de07]
+[29Jun2025 02:07:41.039] [Server thread/INFO] [irons_spells_js/]: traveloptics:sword_of_the_ancients
+[29Jun2025 02:07:41.039] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.holy.SwordOfTheAncientsSpell@6bd3414f
+[29Jun2025 02:08:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Death finds a Way]
+[29Jun2025 02:11:46.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 02:11:46.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 02:14:28.631] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 55.325s
+[29Jun2025 02:16:46.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 02:16:46.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

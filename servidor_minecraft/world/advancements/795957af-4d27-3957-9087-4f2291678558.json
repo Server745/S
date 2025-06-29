@@ -615,6 +615,7 @@
       "minecraft:frozen_river": "2025-06-28 22:46:37 +0000",
       "minecraft:cherry_grove": "2025-06-24 22:13:53 +0000",
       "minecraft:birch_forest": "2025-06-25 22:44:23 +0000",
+      "minecraft:windswept_hills": "2025-06-29 01:45:48 +0000",
       "minecraft:bamboo_jungle": "2025-06-27 19:10:04 +0000",
       "minecraft:badlands": "2025-06-28 22:03:21 +0000",
       "minecraft:savanna_plateau": "2025-06-27 19:40:06 +0000",
@@ -9421,9 +9422,21 @@
     },
     "done": true
   },
+  "vampiresdelight:recipes/building_blocks/bamboo_wine_shelf": {
+    "criteria": {
+      "has_bamboo_slab": "2025-06-29 01:52:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
     "criteria": {
       "has_sea_serpent_scales_red": "2025-06-29 01:14:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-06-29 02:08:08 +0000"
     },
     "done": true
   },
@@ -9466,6 +9479,42 @@
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-06-29 01:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-06-29 01:52:28 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-06-29 01:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-29 01:42:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ancient_remnant": "2025-06-29 02:08:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-29 01:49:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/bamboo_banister": {
+    "criteria": {
+      "has_item": "2025-06-29 01:52:28 +0000"
     },
     "done": true
   },
