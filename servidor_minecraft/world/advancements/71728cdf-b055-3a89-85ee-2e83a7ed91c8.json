@@ -104,6 +104,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-06-28 22:42:48 +0000",
+      "woodland": "2025-06-29 00:20:43 +0000",
       "shrubland": "2025-06-28 22:20:30 +0000",
       "scrubland": "2025-06-26 21:05:57 +0000",
       "erupting_inferno": "2025-06-26 01:48:20 +0000",
@@ -121,6 +122,7 @@
       "mediterranean_forest": "2025-06-27 17:39:00 +0000",
       "coniferous_forest": "2025-06-28 22:02:53 +0000",
       "spider_nest": "2025-06-24 20:52:40 +0000",
+      "dryland": "2025-06-29 00:17:50 +0000",
       "wasteland": "2025-06-27 19:23:01 +0000",
       "lush_desert": "2025-06-27 19:28:57 +0000",
       "redwood_forest": "2025-06-24 20:33:08 +0000",
@@ -132,10 +134,12 @@
       "volcanic_plains": "2025-06-27 19:47:57 +0000",
       "lavender_field": "2025-06-24 22:51:29 +0000",
       "prairie": "2025-06-24 16:59:22 +0000",
+      "grassland": "2025-06-29 00:22:43 +0000",
       "snowy_coniferous_forest": "2025-06-28 22:42:41 +0000",
       "snowy_fir_clearing": "2025-06-28 23:26:42 +0000",
       "tundra": "2025-06-28 22:33:57 +0000",
       "gravel_beach": "2025-06-28 22:32:53 +0000",
+      "undergrowth": "2025-06-29 00:02:06 +0000",
       "rainforest": "2025-06-27 19:14:04 +0000"
     },
     "done": false
@@ -171,6 +175,7 @@
       "minecraft:snowy_slopes": "2025-06-24 22:24:22 +0000",
       "minecraft:taiga": "2025-06-28 22:02:06 +0000",
       "minecraft:deep_ocean": "2025-06-26 19:05:47 +0000",
+      "minecraft:eroded_badlands": "2025-06-29 00:17:28 +0000",
       "minecraft:frozen_river": "2025-06-28 22:33:50 +0000",
       "minecraft:cherry_grove": "2025-06-24 22:17:38 +0000",
       "minecraft:birch_forest": "2025-06-25 22:26:48 +0000",
@@ -179,6 +184,7 @@
       "minecraft:badlands": "2025-06-27 19:28:53 +0000",
       "minecraft:savanna_plateau": "2025-06-27 20:02:40 +0000",
       "minecraft:beach": "2025-06-26 21:05:23 +0000",
+      "minecraft:dark_forest": "2025-06-29 00:26:08 +0000",
       "minecraft:sparse_jungle": "2025-06-27 19:05:24 +0000",
       "minecraft:river": "2025-06-24 17:03:43 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 21:20:41 +0000",
@@ -187,12 +193,15 @@
       "minecraft:dripstone_caves": "2025-06-24 23:57:06 +0000",
       "minecraft:snowy_taiga": "2025-06-28 22:56:48 +0000",
       "minecraft:grove": "2025-06-24 22:27:54 +0000",
+      "minecraft:cold_ocean": "2025-06-28 23:51:24 +0000",
       "minecraft:forest": "2025-06-24 22:45:02 +0000",
       "minecraft:ice_spikes": "2025-06-28 23:30:39 +0000",
+      "minecraft:frozen_ocean": "2025-06-28 23:46:33 +0000",
       "minecraft:desert": "2025-06-27 19:19:46 +0000",
       "minecraft:ocean": "2025-06-26 18:48:11 +0000",
       "minecraft:jungle": "2025-06-27 19:05:35 +0000",
       "minecraft:snowy_beach": "2025-06-28 22:33:51 +0000",
+      "minecraft:warm_ocean": "2025-06-29 00:19:08 +0000",
       "minecraft:frozen_peaks": "2025-06-24 22:18:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-27 19:40:07 +0000",
       "minecraft:meadow": "2025-06-24 22:49:34 +0000",
@@ -795,12 +804,14 @@
       "minecraft:pillager": "2025-06-24 21:54:42 +0000",
       "minecraft:skeleton": "2025-06-24 22:57:08 +0000",
       "minecraft:ravager": "2025-06-26 00:50:43 +0000",
+      "minecraft:ghast": "2025-06-29 00:00:21 +0000",
       "minecraft:vindicator": "2025-06-26 00:51:10 +0000",
       "minecraft:spider": "2025-06-25 22:07:25 +0000",
       "minecraft:creeper": "2025-06-25 23:54:16 +0000",
       "minecraft:evoker": "2025-06-27 02:42:01 +0000",
       "minecraft:zombified_piglin": "2025-06-27 14:49:30 +0000",
       "minecraft:witch": "2025-06-28 22:27:32 +0000",
+      "minecraft:wither_skeleton": "2025-06-29 00:01:27 +0000",
       "minecraft:ender_dragon": "2025-06-27 03:39:50 +0000",
       "minecraft:shulker": "2025-06-27 04:15:56 +0000",
       "minecraft:cave_spider": "2025-06-24 20:52:50 +0000",
@@ -11520,6 +11531,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-28 23:58:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-29 00:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-29 00:05:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2025-06-28 22:41:56 +0000"
@@ -11544,6 +11573,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-28 23:58:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-06-28 23:43:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-06-28 23:01:52 +0000"
@@ -11556,6 +11597,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-28 23:49:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2025-06-28 23:19:22 +0000"
@@ -11565,6 +11612,24 @@
   "legendary_monsters:locate_frostbitten_temple": {
     "criteria": {
       "frostbitten_temple": "2025-06-28 23:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-28 23:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-28 23:58:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-06-28 23:43:55 +0000"
     },
     "done": true
   },
@@ -11676,6 +11741,12 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-06-29 00:19:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-28 23:32:02 +0000"
@@ -11694,15 +11765,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-29 00:04:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-28 23:35:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-28 23:58:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-06-28 22:44:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-06-28 23:43:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-06-29 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-29 00:05:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-28 23:43:55 +0000"
     },
     "done": true
   },
@@ -11724,15 +11831,39 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-29 00:01:20 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
     "criteria": {
       "has_ancient_anima": "2025-06-28 23:35:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-28 23:58:05 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:adventure/night_lich_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:lich": "2025-06-28 23:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-06-28 23:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-29 00:05:20 +0000"
     },
     "done": true
   },
@@ -11778,9 +11909,21 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-06-29 00:04:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
       "has_item": "2025-06-28 22:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-28 23:58:05 +0000"
     },
     "done": true
   },
@@ -11793,6 +11936,12 @@
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2025-06-28 22:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/sludge": {
+    "criteria": {
+      "killed_sludge": "2025-06-28 23:45:51 +0000"
     },
     "done": true
   },

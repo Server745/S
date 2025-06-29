@@ -103,6 +103,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-06-28 23:45:37 +0000",
+      "woodland": "2025-06-29 00:04:20 +0000",
+      "shrubland": "2025-06-29 00:21:32 +0000",
       "scrubland": "2025-06-27 19:26:56 +0000",
       "erupting_inferno": "2025-06-26 19:38:24 +0000",
       "floodplain": "2025-06-28 22:29:11 +0000",
@@ -132,11 +135,13 @@
       "lavender_field": "2025-06-24 23:11:29 +0000",
       "fir_clearing": "2025-06-28 22:56:55 +0000",
       "prairie": "2025-06-24 21:49:35 +0000",
+      "grassland": "2025-06-29 00:15:40 +0000",
       "snowy_coniferous_forest": "2025-06-28 22:46:33 +0000",
       "snowy_fir_clearing": "2025-06-28 22:46:38 +0000",
       "tundra": "2025-06-28 22:44:24 +0000",
       "gravel_beach": "2025-06-28 22:57:18 +0000",
       "rainforest": "2025-06-27 19:13:21 +0000",
+      "snowy_maple_woods": "2025-06-28 23:54:25 +0000",
       "ominous_woods": "2025-06-28 22:43:15 +0000"
     },
     "done": false
@@ -613,6 +618,7 @@
       "minecraft:badlands": "2025-06-28 22:03:21 +0000",
       "minecraft:savanna_plateau": "2025-06-27 19:40:06 +0000",
       "minecraft:beach": "2025-06-28 22:28:19 +0000",
+      "minecraft:dark_forest": "2025-06-29 00:14:32 +0000",
       "minecraft:sparse_jungle": "2025-06-27 19:13:10 +0000",
       "minecraft:river": "2025-06-24 21:58:54 +0000",
       "minecraft:lukewarm_ocean": "2025-06-28 22:28:01 +0000",
@@ -626,10 +632,12 @@
       "minecraft:ice_spikes": "2025-06-28 23:20:48 +0000",
       "minecraft:frozen_ocean": "2025-06-28 22:50:03 +0000",
       "minecraft:desert": "2025-06-27 19:16:33 +0000",
+      "minecraft:windswept_forest": "2025-06-28 23:53:53 +0000",
       "minecraft:ocean": "2025-06-26 18:48:16 +0000",
       "minecraft:jungle": "2025-06-27 18:02:21 +0000",
       "minecraft:snowy_beach": "2025-06-28 22:54:29 +0000",
       "minecraft:warm_ocean": "2025-06-28 22:05:17 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-29 00:03:47 +0000",
       "minecraft:frozen_peaks": "2025-06-24 22:25:24 +0000",
       "minecraft:meadow": "2025-06-24 23:09:29 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-28 23:21:23 +0000",
@@ -8926,12 +8934,6 @@
     },
     "done": true
   },
-  "vampiresdelight:recipes/cooking/weird_jelly_block": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-28 23:24:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
@@ -8941,12 +8943,6 @@
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/food/pure_sorbet": {
-    "criteria": {
-      "has_pure_blood": "2025-06-28 23:24:46 +0000"
     },
     "done": true
   },
@@ -8962,12 +8958,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
-    "criteria": {
-      "has_pure_blood": "2025-06-28 23:24:46 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
@@ -8977,12 +8967,6 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/regicide": {
-    "criteria": {
-      "main": "2025-06-28 23:24:42 +0000"
     },
     "done": true
   },
@@ -9016,30 +9000,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/misc/hunter/pure_blood0": {
-    "criteria": {
-      "has_pure_blood": "2025-06-28 23:24:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
-    "criteria": {
-      "has_item": "2025-06-28 23:36:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-28 23:36:48 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
-    "criteria": {
-      "has_pure_blood": "2025-06-28 23:24:46 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
@@ -9058,12 +9018,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_hydra": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-28 23:24:02 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
@@ -9079,12 +9033,6 @@
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
-    "criteria": {
-      "has_pure_blood": "2025-06-28 23:24:46 +0000"
     },
     "done": true
   },
@@ -9109,24 +9057,6 @@
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2025-06-28 23:36:48 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
-    "criteria": {
-      "has_pure_blood": "2025-06-28 23:24:46 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
-    "criteria": {
-      "has_pure_blood": "2025-06-28 23:24:46 +0000"
     },
     "done": true
   },
@@ -9199,6 +9129,276 @@
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:14:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-28 23:24:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-06-28 23:24:42 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/weird_jelly_block": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/pure_sorbet": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-06-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-06-28 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-28 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-06-28 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-28 23:40:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-06-28 23:40:25 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-06-28 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-28 23:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-29 00:24:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-06-28 23:59:22 +0000"
     },
     "done": true
   },
