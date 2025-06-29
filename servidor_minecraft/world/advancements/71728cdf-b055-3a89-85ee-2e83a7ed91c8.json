@@ -12208,5 +12208,11 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-06-29 18:22:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

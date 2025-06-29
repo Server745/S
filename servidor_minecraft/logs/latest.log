@@ -2942,3 +2942,31 @@ java.lang.Throwable: null
 [29Jun2025 18:21:12.973] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:poison_splash
 [29Jun2025 18:21:12.973] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.PoisonSplashSpell@75fdcfa8
 [29Jun2025 18:22:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Against The Gods]
+[29Jun2025 18:25:58.390] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_missile
+[29Jun2025 18:25:58.390] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicMissileSpell@546364be
+[29Jun2025 18:26:04.189] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:raise_dead
+[29Jun2025 18:26:04.190] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RaiseDeadSpell@a68f3101
+[29Jun2025 18:26:05.646] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[29Jun2025 18:26:05.646] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[29Jun2025 18:26:05.648] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[29Jun2025 18:26:05.648] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[29Jun2025 18:28:38.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/73863, l='ServerLevel[world]', x=678.50, y=55.00, z=5574.50]
+[29Jun2025 18:31:18.188] [Server thread/INFO] [irons_spells_js/]: traveloptics:summon_desert_dwellers
+[29Jun2025 18:31:18.188] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.holy.SummonDesertDwellers@cd7597e0
+[29Jun2025 18:33:21.325] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/78490, l='ServerLevel[world]', x=1025.50, y=53.00, z=5584.50]
+[29Jun2025 18:33:39.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [We Just Want our Hat Back]
+[29Jun2025 18:33:42.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [A Bone to Pick]
+[29Jun2025 18:34:40.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3814ms or 76 ticks behind
+[29Jun2025 18:35:06.394] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Engineer'/75585, l='ServerLevel[world]', x=191.46, y=99.00, z=6025.13] died, message: 'Engineer was slain by Iron Golem'
+[29Jun2025 18:37:04.285] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/81509, l='ServerLevel[world]', x=965.50, y=50.00, z=5855.50]
+[29Jun2025 18:40:49.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=267, y=85, z=5917} BlockPos{x=267, y=83, z=5915}
+[29Jun2025 18:41:49.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[29Jun2025 18:42:07.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[29Jun2025 18:42:25.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[29Jun2025 18:42:42.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[29Jun2025 18:42:57.388] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:guiding_bolt
+[29Jun2025 18:42:57.388] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.GuidingBoltSpell@ecb08685
+[29Jun2025 18:42:59.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[29Jun2025 18:43:00.160] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wisp
+[29Jun2025 18:43:00.160] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.WispSpell@9f9940d9
+[29Jun2025 18:43:17.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
