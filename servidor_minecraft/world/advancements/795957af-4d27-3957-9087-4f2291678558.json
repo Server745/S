@@ -9240,18 +9240,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_desk": {
-    "criteria": {
-      "has_planks": "2025-06-28 23:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-06-28 23:59:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-06-28 23:56:59 +0000"
@@ -9264,21 +9252,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_planks": "2025-06-28 23:59:22 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_gold_backpack": "2025-06-29 00:24:57 +0000"
+      "has_planks": "2025-06-28 23:59:22 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "sword": "2025-06-29 00:24:04 +0000"
+      "has_planks": "2025-06-28 23:59:22 +0000"
     },
     "done": true
   },
@@ -9291,12 +9297,6 @@
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_planks": "2025-06-28 23:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
     },
     "done": true
   },
@@ -9348,18 +9348,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-28 23:56:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-28 23:59:22 +0000"
@@ -9399,6 +9387,42 @@
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_planks": "2025-06-28 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-29 00:24:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-29 00:29:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-06-29 00:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-29 00:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-29 00:38:32 +0000"
     },
     "done": true
   },
