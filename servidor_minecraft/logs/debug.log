@@ -12606,3 +12606,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [29Jun2025 00:54:19.403] [Server thread/INFO] [irons_spells_js/]: traveloptics:aqua_missiles
 [29Jun2025 00:54:19.403] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.AquaMissilesSpell@ab616390
 [29Jun2025 00:55:11.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Captain Nemo]
+[29Jun2025 00:56:24.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 00:56:24.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 00:57:10.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The Shadow Over Mine's Craft]
+[29Jun2025 00:57:57.044] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [e71d43aa-8f4a-4385-ae7f-bb19abae827e]
+[29Jun2025 00:57:57.044] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firefly_swarm
+[29Jun2025 00:57:57.044] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.FireflySwarmSpell@e01e560
+[29Jun2025 00:57:59.353] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [e71d43aa-8f4a-4385-ae7f-bb19abae827e]
+[29Jun2025 00:58:01.698] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [e71d43aa-8f4a-4385-ae7f-bb19abae827e]
+[29Jun2025 00:58:03.903] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [e71d43aa-8f4a-4385-ae7f-bb19abae827e]
+[29Jun2025 00:58:34.099] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [9ae6b988-0a10-45e0-89fa-e83b2b41fee7]
+[29Jun2025 00:58:51.204] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [a7893326-0639-40f9-9198-0553a8195c41]
+[29Jun2025 01:00:24.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Bring Forth The Mollusk]
+[29Jun2025 01:00:33.399] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [f7cf1d0c-66c7-406c-bfc9-f6826f51c130]
+[29Jun2025 01:01:24.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:01:24.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:01:32.999] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [f7cf1d0c-66c7-406c-bfc9-f6826f51c130]
+[29Jun2025 01:01:34.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [f7cf1d0c-66c7-406c-bfc9-f6826f51c130]
+[29Jun2025 01:02:06.397] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [f7cf1d0c-66c7-406c-bfc9-f6826f51c130]
+[29Jun2025 01:02:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Bring Forth The Mollusk]
+[29Jun2025 01:02:17.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Diamonds of the Sea]
+[29Jun2025 01:04:17.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Shadow Over Mine's Craft]
+[29Jun2025 01:04:51.558] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [2fe992d8-f47f-451a-80a1-4789c00c2fcc]
+[29Jun2025 01:06:08.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Order of Dagon]
+[29Jun2025 01:06:24.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:06:24.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
