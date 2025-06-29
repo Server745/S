@@ -11955,57 +11955,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-06-29 01:25:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2025-06-29 01:46:16 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-06-29 00:39:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/trade_with_deep_one": {
-    "criteria": {
-      "stalked_by_deep_one": "2025-06-29 01:06:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-06-29 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-06-29 01:25:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_chiseled_sandstone": "2025-06-29 02:00:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-06-29 01:06:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/mussel": {
-    "criteria": {
-      "mussel": "2025-06-29 01:02:13 +0000"
     },
     "done": true
   },
@@ -12015,9 +11967,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/pearl": {
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
     "criteria": {
-      "pearl": "2025-06-29 01:02:17 +0000"
+      "abyssal_ruins": "2025-06-29 00:52:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/repair_submarine": {
+    "criteria": {
+      "interact": "2025-06-29 00:53:10 +0000"
     },
     "done": true
   },
@@ -12027,27 +11985,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "alexscaves:alexscaves/mussel": {
     "criteria": {
-      "has_nautilus_shell": "2025-06-29 01:34:24 +0000"
+      "mussel": "2025-06-29 01:02:13 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/deep_ones_become_helpful": {
+  "alexscaves:alexscaves/pearl": {
     "criteria": {
-      "stalked_by_deep_one": "2025-06-29 01:23:01 +0000"
+      "pearl": "2025-06-29 01:02:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
+  "alexscaves:alexscaves/stalked_by_deep_one": {
     "criteria": {
-      "has_chiseled_sandstone": "2025-06-29 02:00:54 +0000"
+      "stalked_by_deep_one": "2025-06-29 01:04:17 +0000"
     },
     "done": true
   },
-  "morevillagers:first_trade": {
+  "alexscaves:alexscaves/pearl_on_abyssal_altar": {
     "criteria": {
-      "villagertrade": "2025-06-29 01:48:39 +0000"
+      "use_charcoal": "2025-06-29 01:06:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/trade_with_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-29 01:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-29 01:06:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_neutral": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-29 01:07:06 +0000"
     },
     "done": true
   },
@@ -12058,39 +12034,45 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/deep_ones_become_neutral": {
+  "alexscaves:alexscaves/deep_ones_become_helpful": {
     "criteria": {
-      "stalked_by_deep_one": "2025-06-29 01:07:06 +0000"
+      "stalked_by_deep_one": "2025-06-29 01:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-29 01:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-29 01:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-06-29 01:34:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-06-29 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-06-29 01:46:16 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-06-29 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/food/bat_taco": {
-    "criteria": {
-      "has_cooked_bat": "2025-06-29 02:06:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-06-29 01:48:39 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
-    "criteria": {
-      "abyssal_ruins": "2025-06-29 00:52:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/pearl_on_abyssal_altar": {
-    "criteria": {
-      "use_charcoal": "2025-06-29 01:06:08 +0000"
     },
     "done": true
   },
@@ -12106,15 +12088,33 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/repair_submarine": {
+  "morevillagers:first_trade": {
     "criteria": {
-      "interact": "2025-06-29 00:53:10 +0000"
+      "villagertrade": "2025-06-29 01:48:39 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/stalked_by_deep_one": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "stalked_by_deep_one": "2025-06-29 01:04:17 +0000"
+      "traded": "2025-06-29 01:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-29 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-29 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/bat_taco": {
+    "criteria": {
+      "has_cooked_bat": "2025-06-29 02:06:19 +0000"
     },
     "done": true
   },
