@@ -2723,3 +2723,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [29Jun2025 01:02:17.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Diamonds of the Sea]
 [29Jun2025 01:04:17.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Shadow Over Mine's Craft]
 [29Jun2025 01:06:08.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Order of Dagon]
+[29Jun2025 01:06:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [An Understanding]
+[29Jun2025 01:06:33.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Diamonds of the Sea]
+[29Jun2025 01:07:06.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Nautical Neighbors]
+[29Jun2025 01:09:27.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:-300:63:8177:12:false:0:Internal-overworld-waypoints
+[29Jun2025 01:10:11.260] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:starfall
+[29Jun2025 01:10:11.260] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.StarfallSpell@edd7f4f7
+[29Jun2025 01:18:57.311] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:lightning_lance
+[29Jun2025 01:18:57.311] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.LightningLanceSpell@15ad3230
+[29Jun2025 01:20:10.303] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:root
+[29Jun2025 01:20:10.303] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.RootSpell@9f97110c
+[29Jun2025 01:23:01.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [All Buddies Now]
+[29Jun2025 01:23:54.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[29Jun2025 01:24:11.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[29Jun2025 01:24:29.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
+[29Jun2025 01:24:46.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
+[29Jun2025 01:25:49.216] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jun2025 01:25:49.217] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jun2025 01:25:59.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:211:~:6036:1:false:0:Internal-overworld-waypoints

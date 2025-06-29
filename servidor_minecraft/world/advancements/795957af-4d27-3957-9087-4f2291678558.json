@@ -9421,6 +9421,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-06-29 01:14:15 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/mussel": {
     "criteria": {
       "mussel": "2025-06-29 01:00:24 +0000"
@@ -9430,6 +9436,12 @@
   "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
       "discover": "2025-06-29 00:51:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-06-29 01:06:33 +0000"
     },
     "done": true
   },
@@ -9445,15 +9457,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-06-29 01:14:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-06-29 01:14:15 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_abyssal_ruins": {
     "criteria": {
       "abyssal_ruins": "2025-06-29 00:52:23 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-29 01:14:15 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/stalked_by_deep_one": {
     "criteria": {
       "stalked_by_deep_one": "2025-06-29 00:57:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-06-29 01:14:15 +0000"
     },
     "done": true
   },

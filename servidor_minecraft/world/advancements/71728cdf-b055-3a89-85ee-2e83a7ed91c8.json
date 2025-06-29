@@ -11953,9 +11953,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-29 01:25:43 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-06-29 00:39:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/trade_with_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-29 01:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-29 01:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-29 01:06:35 +0000"
     },
     "done": true
   },
@@ -11980,6 +12004,24 @@
   "alexscaves:alexscaves/ride_submarine": {
     "criteria": {
       "ride_a_boat_with_a_goat": "2025-06-29 00:53:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_helpful": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-29 01:23:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "sea_staff": "2025-06-29 01:07:12 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/deep_ones_become_neutral": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-29 01:07:06 +0000"
     },
     "done": true
   },
