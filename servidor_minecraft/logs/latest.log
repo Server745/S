@@ -2999,3 +2999,31 @@ java.lang.Throwable: null
 [29Jun2025 18:51:59.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [29Jun2025 18:52:18.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
 [29Jun2025 18:52:44.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[29Jun2025 18:56:26.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/97421, l='ServerLevel[world]', x=238.62, y=101.00, z=6016.57] died, message: 'Hunter was slain by Vampire Hunter'
+[29Jun2025 18:56:34.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=83, z=5929} BlockPos{x=269, y=82, z=5929}
+[29Jun2025 18:57:10.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/97462, l='ServerLevel[world]', x=162.30, y=23.18, z=6052.70] died, message: 'Villager was slain by Vampire Hunter'
+[29Jun2025 18:58:07.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=259, y=76, z=5940} BlockPos{x=259, y=76, z=5939}
+[29Jun2025 18:58:20.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[29Jun2025 19:01:16.607] [Server thread/INFO] [irons_spells_js/]: traveloptics:orbital_void
+[29Jun2025 19:01:16.607] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.OrbitalVoidSpell@5f90e2fe
+[29Jun2025 19:02:36.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[29Jun2025 19:02:53.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[29Jun2025 19:03:43.260] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[29Jun2025 19:03:43.260] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[29Jun2025 19:03:51.453] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:icicle
+[29Jun2025 19:03:51.453] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ice.IcicleSpell@5832bc57
+[29Jun2025 19:05:01.183] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:gust
+[29Jun2025 19:05:01.184] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.GustSpell@9f9227f9
+[29Jun2025 19:05:10.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/97415, l='ServerLevel[world]', x=116.29, y=81.00, z=6020.77] died, message: 'Villager was slain by Zombie'
+[29Jun2025 19:09:11.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[29Jun2025 19:09:11.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[29Jun2025 19:09:50.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:58289] logged in with entity id 111853 at (223.2120858437532, 64.0, 5894.898490834907)
+[29Jun2025 19:09:51.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[29Jun2025 19:11:44.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[29Jun2025 19:12:02.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[29Jun2025 19:12:26.071] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[29Jun2025 19:12:26.192] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[29Jun2025 19:12:26.193] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[29Jun2025 19:12:26.194] [Worker-Main-81/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[29Jun2025 19:14:01.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[29Jun2025 19:14:01.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game

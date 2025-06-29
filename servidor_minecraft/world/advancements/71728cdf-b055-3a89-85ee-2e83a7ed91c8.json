@@ -12208,6 +12208,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-06-29 18:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-29 18:44:47 +0000"
@@ -12220,13 +12226,13 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_cloud_golem": {
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
-      "cloud_golem": "2025-06-29 18:22:51 +0000"
+      "has_potato": "2025-06-29 18:44:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-29 18:44:47 +0000"
     },
@@ -12235,12 +12241,6 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-29 18:50:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-06-29 18:44:47 +0000"
     },
     "done": true
   },
