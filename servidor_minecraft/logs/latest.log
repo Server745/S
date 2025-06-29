@@ -2703,3 +2703,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [29Jun2025 00:39:06.987] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_step
 [29Jun2025 00:39:06.988] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodStepSpell@5ae9361b
 [29Jun2025 00:39:55.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Journey Begins]
+[29Jun2025 00:51:36.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Beyond the Sea]
+[29Jun2025 00:51:37.890] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:summon_horse
+[29Jun2025 00:51:37.890] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SummonHorseSpell@b2b70329
+[29Jun2025 00:51:51.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Beyond the Sea]
+[29Jun2025 00:52:23.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Shell City]
+[29Jun2025 00:52:31.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Those Aren't Balloons...]
+[29Jun2025 00:52:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Shell City]
+[29Jun2025 00:53:10.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Buff Out Those Scratches]
+[29Jun2025 00:53:11.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Captain Nemo]
+[29Jun2025 00:54:19.403] [Server thread/INFO] [irons_spells_js/]: traveloptics:aqua_missiles
+[29Jun2025 00:54:19.403] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.AquaMissilesSpell@ab616390
+[29Jun2025 00:55:11.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Captain Nemo]
