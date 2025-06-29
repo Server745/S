@@ -16295,3 +16295,131 @@ java.lang.Throwable: null
 [29Jun2025 18:43:07.722] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
 [29Jun2025 18:43:08.631] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
 [29Jun2025 18:43:17.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Jun2025 18:43:19.605] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:20.167] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:20.708] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:21.289] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:21.758] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:22.373] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:23.066] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:23.595] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:24.306] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:24.590] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=84, z=5916}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:24.999] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=84, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:25.891] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=83, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:26.425] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=271, y=84, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:27.079] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=84, z=5918}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:27.635] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:28.162] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:28.585] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:29.067] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:29.542] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:36.532] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:37.204] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:37.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Once Upon a Cave]
+[29Jun2025 18:43:37.680] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:38.175] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:38.817] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:39.274] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:43:39.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7053ms or 141 ticks behind
+[29Jun2025 18:43:43.615] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=271, y=92, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:44.428] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=92, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:45.066] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=91, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:45.570] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=90, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:45.987] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=271, y=91, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:46.477] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=271, y=90, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:46.922] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=271, y=89, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:47.568] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=271, y=90, z=5916}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:52.301] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=269, y=90, z=5915}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:53.747] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=91, z=5916}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:54.186] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=270, y=92, z=5916}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:54.622] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=269, y=92, z=5917}) doesn't have enough leaves around top most log
+[29Jun2025 18:43:55.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=272, y=91, z=5915} BlockPos{x=272, y=90, z=5915}
+[29Jun2025 18:43:55.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=273, y=91, z=5915} BlockPos{x=272, y=90, z=5915}
+[29Jun2025 18:43:55.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=272, y=91, z=5914} BlockPos{x=272, y=90, z=5915}
+[29Jun2025 18:43:55.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=273, y=90, z=5914} BlockPos{x=272, y=90, z=5915}
+[29Jun2025 18:43:57.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[29Jun2025 18:43:58.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Jun2025 18:44:34.032] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=257, y=70, z=5910}) doesn't have enough leaves around top most log
+[29Jun2025 18:44:34.584] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=257, y=70, z=5913}) doesn't have enough leaves around top most log
+[29Jun2025 18:44:35.043] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=257, y=70, z=5912}) doesn't have enough leaves around top most log
+[29Jun2025 18:44:35.488] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=257, y=70, z=5911}) doesn't have enough leaves around top most log
+[29Jun2025 18:44:35.915] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=257, y=70, z=5909}) doesn't have enough leaves around top most log
+[29Jun2025 18:44:36.728] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=257, y=70, z=5908}) doesn't have enough leaves around top most log
+[29Jun2025 18:44:39.220] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1015 6615 6615 VisualFallingBlockEntity['Falling Stone'/89497, l='ServerLevel[world]', x=1015.50, y=37.00, z=6615.50]
+[29Jun2025 18:44:40.464] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1016 6615 6615 VisualFallingBlockEntity['Falling Stone'/89505, l='ServerLevel[world]', x=1016.50, y=33.00, z=6615.50]
+[29Jun2025 18:45:12.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 18:45:12.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 18:45:29.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/75473, l='ServerLevel[world]', x=270.41, y=68.45, z=5970.26] died, message: 'Villager was slain by Myrmex Sentinel'
+[29Jun2025 18:45:46.960] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:hunter at BlockPos{x=206, y=81, z=6055} with badomen level 0
+[29Jun2025 18:45:54.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/75580, l='ServerLevel[world]', x=195.30, y=106.00, z=6019.31] died, message: 'Villager was slain by Vampire Hunter'
+[29Jun2025 18:45:59.973] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Nitwit'/75526, l='ServerLevel[world]', x=212.91, y=92.00, z=6025.51] died, message: 'Nitwit was slain by Vampire Hunter'
+[29Jun2025 18:46:10.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/75492, l='ServerLevel[world]', x=201.30, y=83.00, z=6031.52] died, message: 'Villager was slain by Vampire Hunter'
+[29Jun2025 18:46:12.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Jun2025 18:46:17.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Oceanographer'/75490, l='ServerLevel[world]', x=211.46, y=82.00, z=6030.50] died, message: 'Oceanographer was slain by Vampire Hunter'
+[29Jun2025 18:46:24.563] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Oceanographer'/75520, l='ServerLevel[world]', x=253.83, y=99.00, z=6040.30] died, message: 'Oceanographer was slain by Vampire Hunter'
+[29Jun2025 18:46:32.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[29Jun2025 18:46:49.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[29Jun2025 18:46:54.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/75566, l='ServerLevel[world]', x=199.01, y=97.77, z=5999.01] died, message: 'Hunter was slain by Vampire Hunter'
+[29Jun2025 18:46:57.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [82e8889b-bf1a-4b46-b5e4-651bcbf9fd34]
+[29Jun2025 18:47:02.166] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [82e8889b-bf1a-4b46-b5e4-651bcbf9fd34]
+[29Jun2025 18:47:07.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[29Jun2025 18:47:08.137] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [82e8889b-bf1a-4b46-b5e4-651bcbf9fd34]
+[29Jun2025 18:47:24.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[29Jun2025 18:47:42.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[29Jun2025 18:47:53.200] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:48:01.500] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:48:01.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[29Jun2025 18:48:10.377] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [82e8889b-bf1a-4b46-b5e4-651bcbf9fd34]
+[29Jun2025 18:48:28.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Jun2025 18:48:44.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Scribe'/75489, l='ServerLevel[world]', x=198.47, y=71.00, z=6040.42] died, message: 'Scribe hit the ground too hard whilst trying to escape Vampire Hunter'
+[29Jun2025 18:48:47.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Vampire Expert'/75488, l='ServerLevel[world]', x=245.06, y=90.18, z=6051.08] died, message: 'Vampire Expert was slain by Vampire Hunter'
+[29Jun2025 18:49:15.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Engineer'/75493, l='ServerLevel[world]', x=253.70, y=97.00, z=6026.81] died, message: 'Engineer was slain by Vampire Hunter'
+[29Jun2025 18:50:29.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 18:50:29.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 18:50:44.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/75472, l='ServerLevel[world]', x=268.32, y=67.50, z=5969.11] died, message: 'Hunter was slain by Myrmex Sentinel'
+[29Jun2025 18:51:59.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Jun2025 18:52:18.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
+[29Jun2025 18:52:21.007] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:22.101] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Jun2025 18:52:27.117] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:28.191] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:28.918] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:39.282] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:39.810] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:40.316] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:40.895] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:41.459] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:41.960] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:44.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Jun2025 18:52:44.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[29Jun2025 18:52:45.020] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:45.667] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:46.107] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:46.774] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:47.516] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:48.419] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:58.500] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:59.089] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:52:59.698] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:00.165] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:00.741] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:01.287] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:02.302] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:03.423] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:12.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Jun2025 18:53:15.193] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:15.617] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:16.131] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:16.608] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Jun2025 18:53:21.925] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=259, y=91, z=5923}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:22.830] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=259, y=90, z=5923}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:23.370] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=259, y=91, z=5922}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:23.885] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=259, y=90, z=5922}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:25.945] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=259, y=88, z=5922}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:26.798] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=259, y=87, z=5922}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:27.109] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=260, y=83, z=5923}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:27.697] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=259, y=83, z=5923}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:28.498] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=259, y=82, z=5922}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:28.946] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=258, y=82, z=5923}) doesn't have enough leaves around top most log
+[29Jun2025 18:53:32.453] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=256, y=69, z=5923}) doesn't have enough leaves around top most log

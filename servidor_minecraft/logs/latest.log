@@ -2970,3 +2970,32 @@ java.lang.Throwable: null
 [29Jun2025 18:43:00.160] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wisp
 [29Jun2025 18:43:00.160] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.WispSpell@9f9940d9
 [29Jun2025 18:43:17.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Jun2025 18:43:37.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Once Upon a Cave]
+[29Jun2025 18:43:39.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7053ms or 141 ticks behind
+[29Jun2025 18:43:55.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=272, y=91, z=5915} BlockPos{x=272, y=90, z=5915}
+[29Jun2025 18:43:55.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=273, y=91, z=5915} BlockPos{x=272, y=90, z=5915}
+[29Jun2025 18:43:55.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=272, y=91, z=5914} BlockPos{x=272, y=90, z=5915}
+[29Jun2025 18:43:55.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=273, y=90, z=5914} BlockPos{x=272, y=90, z=5915}
+[29Jun2025 18:43:57.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[29Jun2025 18:45:29.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/75473, l='ServerLevel[world]', x=270.41, y=68.45, z=5970.26] died, message: 'Villager was slain by Myrmex Sentinel'
+[29Jun2025 18:45:54.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/75580, l='ServerLevel[world]', x=195.30, y=106.00, z=6019.31] died, message: 'Villager was slain by Vampire Hunter'
+[29Jun2025 18:45:59.973] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Nitwit'/75526, l='ServerLevel[world]', x=212.91, y=92.00, z=6025.51] died, message: 'Nitwit was slain by Vampire Hunter'
+[29Jun2025 18:46:10.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/75492, l='ServerLevel[world]', x=201.30, y=83.00, z=6031.52] died, message: 'Villager was slain by Vampire Hunter'
+[29Jun2025 18:46:12.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Jun2025 18:46:17.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Oceanographer'/75490, l='ServerLevel[world]', x=211.46, y=82.00, z=6030.50] died, message: 'Oceanographer was slain by Vampire Hunter'
+[29Jun2025 18:46:24.563] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Oceanographer'/75520, l='ServerLevel[world]', x=253.83, y=99.00, z=6040.30] died, message: 'Oceanographer was slain by Vampire Hunter'
+[29Jun2025 18:46:32.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[29Jun2025 18:46:49.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[29Jun2025 18:46:54.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/75566, l='ServerLevel[world]', x=199.01, y=97.77, z=5999.01] died, message: 'Hunter was slain by Vampire Hunter'
+[29Jun2025 18:47:07.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[29Jun2025 18:47:24.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[29Jun2025 18:47:42.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[29Jun2025 18:48:01.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[29Jun2025 18:48:28.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Jun2025 18:48:44.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Scribe'/75489, l='ServerLevel[world]', x=198.47, y=71.00, z=6040.42] died, message: 'Scribe hit the ground too hard whilst trying to escape Vampire Hunter'
+[29Jun2025 18:48:47.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Vampire Expert'/75488, l='ServerLevel[world]', x=245.06, y=90.18, z=6051.08] died, message: 'Vampire Expert was slain by Vampire Hunter'
+[29Jun2025 18:49:15.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Engineer'/75493, l='ServerLevel[world]', x=253.70, y=97.00, z=6026.81] died, message: 'Engineer was slain by Vampire Hunter'
+[29Jun2025 18:50:44.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/75472, l='ServerLevel[world]', x=268.32, y=67.50, z=5969.11] died, message: 'Hunter was slain by Myrmex Sentinel'
+[29Jun2025 18:51:59.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Jun2025 18:52:18.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
+[29Jun2025 18:52:44.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
