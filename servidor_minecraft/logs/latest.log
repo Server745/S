@@ -2922,3 +2922,5 @@ java.lang.Throwable: null
 [29Jun2025 17:51:21.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
 [29Jun2025 17:52:30.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:38781] logged in with entity id 53705 at (151.08179410075226, 39.0, 4871.698442131907)
 [29Jun2025 17:52:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[29Jun2025 18:10:44.494] [Server thread/INFO] [irons_spells_js/]: traveloptics:meteor_storm
+[29Jun2025 18:10:44.495] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.fire.MeteorStormSpell@376b9f6
