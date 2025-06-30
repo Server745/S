@@ -2892,3 +2892,4 @@ java.lang.Throwable: null
 [30Jun2025 16:44:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> S
 [30Jun2025 16:44:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> S
 [30Jun2025 16:52:55.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Scribe'/36851, l='ServerLevel[world]', x=215.53, y=78.00, z=5972.30] died, message: 'Scribe hit the ground too hard'
+[30Jun2025 17:01:09.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
