@@ -12305,3 +12305,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [30Jun2025 14:41:05.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jun2025 14:41:05.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 14:43:12.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Oceanographer'/3592, l='ServerLevel[world]', x=257.37, y=66.00, z=5986.55] died, message: 'Oceanographer was slain by Myrmex Worker'
+[30Jun2025 14:43:47.553] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_slash
+[30Jun2025 14:43:47.554] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodSlashSpell@54caf722
+[30Jun2025 14:44:58.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/11277, l='ServerLevel[world]', x=270.92, y=63.50, z=5983.85] died, message: 'Hunter was slain by Myrmex Worker'
+[30Jun2025 14:45:31.232] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 50.167s
+[30Jun2025 14:46:05.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 14:46:05.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 14:51:05.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 14:51:05.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 14:56:05.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 14:56:05.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 14:57:48.188] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:hunter at BlockPos{x=206, y=81, z=6055} with badomen level 0
+[30Jun2025 15:01:05.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 15:01:05.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 15:01:24.575] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[30Jun2025 15:01:24.577] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[30Jun2025 15:01:24.577] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[30Jun2025 15:01:28.487] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[30Jun2025 15:01:28.488] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[30Jun2025 15:01:29.477] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[30Jun2025 15:01:31.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[30Jun2025 15:01:31.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[30Jun2025 15:01:33.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5834} BlockPos{x=325, y=68, z=5833}
+[30Jun2025 15:01:33.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5834} BlockPos{x=325, y=68, z=5833}
+[30Jun2025 15:01:33.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5834} BlockPos{x=325, y=68, z=5833}
+[30Jun2025 15:01:33.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5834} BlockPos{x=325, y=68, z=5833}
+[30Jun2025 15:01:33.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5834} BlockPos{x=325, y=68, z=5833}
+[30Jun2025 15:01:33.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=322, y=69, z=5833} BlockPos{x=325, y=68, z=5833}
+[30Jun2025 15:01:34.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=322, y=69, z=5833} BlockPos{x=325, y=68, z=5833}
+[30Jun2025 15:01:34.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=322, y=69, z=5833} BlockPos{x=325, y=68, z=5833}
+[30Jun2025 15:01:36.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=328, y=69, z=5834} BlockPos{x=328, y=67, z=5834}
+[30Jun2025 15:01:36.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=328, y=69, z=5831} BlockPos{x=328, y=68, z=5832}
+[30Jun2025 15:01:36.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=328, y=69, z=5831} BlockPos{x=328, y=68, z=5832}
+[30Jun2025 15:01:37.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5830} BlockPos{x=328, y=67, z=5831}
+[30Jun2025 15:01:37.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5830} BlockPos{x=328, y=67, z=5831}
+[30Jun2025 15:01:37.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5830} BlockPos{x=328, y=67, z=5831}
+[30Jun2025 15:01:37.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5830} BlockPos{x=328, y=67, z=5831}
+[30Jun2025 15:01:37.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5830} BlockPos{x=328, y=67, z=5831}
+[30Jun2025 15:01:37.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5830} BlockPos{x=328, y=67, z=5831}
+[30Jun2025 15:01:37.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=325, y=68, z=5830} BlockPos{x=328, y=67, z=5831}
+[30Jun2025 15:02:13.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Forester'/16634, l='ServerLevel[world]', x=220.58, y=81.00, z=6059.54] died, message: 'Forester was slain by Vampire Hunter'
+[30Jun2025 15:04:07.346] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [8726084d-7dd3-490c-88fe-dcbff2a1cbfc]
+[30Jun2025 15:04:07.346] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
+[30Jun2025 15:04:07.347] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
