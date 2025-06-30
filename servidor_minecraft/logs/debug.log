@@ -13577,3 +13577,11 @@ java.lang.Throwable: null
 [30Jun2025 17:56:11.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 17:56:20.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Apparitions]
 [30Jun2025 17:56:20.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56808, l='ServerLevel[world]', x=-2959.14, y=70.31, z=4210.14] died: Restless Spirit was slain by camilxdk1
+[30Jun2025 17:58:21.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56730, l='ServerLevel[world]', x=-2931.65, y=-20.00, z=4121.34] died: Restless Spirit was killed
+[30Jun2025 18:01:11.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 18:01:11.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 18:01:42.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[30Jun2025 18:06:12.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 18:06:12.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 18:06:40.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[30Jun2025 18:06:40.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
