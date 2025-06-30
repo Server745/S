@@ -2893,3 +2893,17 @@ java.lang.Throwable: null
 [30Jun2025 16:44:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> S
 [30Jun2025 16:52:55.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Scribe'/36851, l='ServerLevel[world]', x=215.53, y=78.00, z=5972.30] died, message: 'Scribe hit the ground too hard'
 [30Jun2025 17:01:09.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[30Jun2025 17:16:45.582] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_missile
+[30Jun2025 17:16:45.582] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicMissileSpell@546364be
+[30Jun2025 17:16:53.334] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:icicle
+[30Jun2025 17:16:53.334] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ice.IcicleSpell@5832bc57
+[30Jun2025 17:16:56.029] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:raise_dead
+[30Jun2025 17:16:56.030] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RaiseDeadSpell@a68f3101
+[30Jun2025 17:16:57.487] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[30Jun2025 17:16:57.487] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[30Jun2025 17:16:57.488] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[30Jun2025 17:16:57.488] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[30Jun2025 17:17:06.087] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
+[30Jun2025 17:17:06.087] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
+[30Jun2025 17:25:59.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:39875] logged in with entity id 44263 at (-2209.386828847349, 119.62976956764659, 2454.104606096538)
+[30Jun2025 17:25:59.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
