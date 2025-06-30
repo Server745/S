@@ -2743,3 +2743,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [30Jun2025 01:22:15.280] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.PoisonSplashSpell@75fdcfa8
 [30Jun2025 01:23:21.224] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
 [30Jun2025 01:23:21.224] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
+[30Jun2025 01:25:43.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/7678, l='ServerLevel[world]', x=165.50, y=55.00, z=5085.50]
+[30Jun2025 01:26:50.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[30Jun2025 01:26:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[30Jun2025 01:29:01.356] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@340eed15[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.94.87.232:35865) lost connection: Timed out
+[30Jun2025 01:29:34.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5953ms or 119 ticks behind
+[30Jun2025 01:29:44.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:53149] logged in with entity id 9199 at (140.94015145955257, -12.539957568829525, 4984.006732595334)
+[30Jun2025 01:29:44.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[30Jun2025 01:30:00.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[30Jun2025 01:30:00.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
