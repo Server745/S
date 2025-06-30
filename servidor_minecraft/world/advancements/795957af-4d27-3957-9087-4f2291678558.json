@@ -4958,6 +4958,7 @@
       "minecraft:hoglin": "2025-06-30 03:58:29 +0000",
       "minecraft:guardian": "2025-06-29 17:55:18 +0000",
       "minecraft:vindicator": "2025-06-26 00:49:02 +0000",
+      "minecraft:magma_cube": "2025-06-30 17:45:43 +0000",
       "minecraft:spider": "2025-06-26 01:51:14 +0000",
       "minecraft:piglin_brute": "2025-06-30 04:00:33 +0000",
       "minecraft:creeper": "2025-06-27 18:56:14 +0000",
@@ -10330,14 +10331,16 @@
       "minecraft:crimson_forest": "2025-06-30 04:28:41 +0000",
       "minecraft:nether_wastes": "2025-06-30 03:42:11 +0000",
       "minecraft:soul_sand_valley": "2025-06-30 03:45:16 +0000",
-      "minecraft:warped_forest": "2025-06-30 04:40:43 +0000"
+      "minecraft:warped_forest": "2025-06-30 04:40:43 +0000",
+      "minecraft:basalt_deltas": "2025-06-30 17:27:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:weeping_valley": "2025-06-30 03:45:07 +0000",
       "incendium:infernal_dunes": "2025-06-30 03:59:19 +0000",
+      "incendium:volcanic_deltas": "2025-06-30 17:27:31 +0000",
       "incendium:withered_forest": "2025-06-30 04:35:24 +0000"
     },
     "done": false
@@ -10519,6 +10522,84 @@
   "legendary_monsters:defeat_warped_fungussus": {
     "criteria": {
       "fungussus": "2025-06-30 04:41:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-06-30 17:27:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-30 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-30 17:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-30 17:36:22 +0000"
     },
     "done": true
   },

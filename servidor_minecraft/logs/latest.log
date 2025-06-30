@@ -2907,3 +2907,17 @@ java.lang.Throwable: null
 [30Jun2025 17:17:06.087] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
 [30Jun2025 17:25:59.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:39875] logged in with entity id 44263 at (-2209.386828847349, 119.62976956764659, 2454.104606096538)
 [30Jun2025 17:25:59.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[30Jun2025 17:27:31.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Hellfire Mantle]
+[30Jun2025 17:27:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Hot Tourist Destinations]
+[30Jun2025 17:28:24.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=73, z=5913} BlockPos{x=257, y=70, z=5920}
+[30Jun2025 17:29:33.842] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
+[30Jun2025 17:29:33.842] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
+[30Jun2025 17:29:47.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Only Good Bug...]
+[30Jun2025 17:29:51.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The Only Good Bug...]
+[30Jun2025 17:30:30.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[30Jun2025 17:30:30.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[30Jun2025 17:31:25.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:59641] logged in with entity id 45915 at (252.58142534149587, 68.0, 5924.93305035486)
+[30Jun2025 17:31:25.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[30Jun2025 17:34:47.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
+[30Jun2025 17:42:05.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 0.5184888903472711,-11.065764912039818,0.466495511361245
+[30Jun2025 17:46:25.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Hidden in the Depths]
