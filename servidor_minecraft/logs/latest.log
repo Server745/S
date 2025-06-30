@@ -2926,3 +2926,7 @@ java.lang.Throwable: null
 [30Jun2025 17:58:21.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56730, l='ServerLevel[world]', x=-2931.65, y=-20.00, z=4121.34] died: Restless Spirit was killed
 [30Jun2025 18:06:40.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
 [30Jun2025 18:06:40.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[30Jun2025 18:17:35.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:43953] logged in with entity id 64219 at (-3041.699999988079, 96.0, 5372.699999988079)
+[30Jun2025 18:17:35.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[30Jun2025 18:19:41.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36943, l='ServerLevel[world]', x=187.61, y=69.00, z=6033.70] died, message: 'Villager hit the ground too hard'
+[30Jun2025 18:26:52.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Piglin Pillage]
