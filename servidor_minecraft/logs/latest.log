@@ -2709,3 +2709,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [30Jun2025 01:10:43.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
 [30Jun2025 01:11:51.583] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
 [30Jun2025 01:11:51.583] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
+[30Jun2025 01:13:25.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:55805] logged in with entity id 2793 at (101.30000001192093, 25.0, 5004.808697831534)
+[30Jun2025 01:13:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[30Jun2025 01:13:55.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[30Jun2025 01:13:55.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[30Jun2025 01:14:54.265] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14559b40[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.94.87.232:35551) lost connection: Timed out
+[30Jun2025 01:15:12.758] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:healing_circle
+[30Jun2025 01:15:12.758] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealingCircleSpell@3974fbdf
+[30Jun2025 01:17:35.205] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@25452156[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.94.87.232:49757): Took too long to log in
+[30Jun2025 01:17:35.206] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25452156[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.94.87.232:49757) lost connection: Took too long to log in
+[30Jun2025 01:17:35.257] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2025 01:17:52.807] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_step
+[30Jun2025 01:17:52.807] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodStepSpell@5ae9361b
+[30Jun2025 01:18:33.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:37569] logged in with entity id 5369 at (101.30000001192093, 25.0, 5004.808697831534)
+[30Jun2025 01:18:33.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[30Jun2025 01:19:04.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[30Jun2025 01:19:04.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[30Jun2025 01:19:26.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:36039] logged in with entity id 5743 at (101.30000001192093, 25.0, 5004.808697831534)
+[30Jun2025 01:19:26.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[30Jun2025 01:19:56.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[30Jun2025 01:19:56.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[30Jun2025 01:20:16.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:51197] logged in with entity id 6001 at (101.30000001192093, 25.0, 5004.808697831534)
+[30Jun2025 01:20:16.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[30Jun2025 01:20:46.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[30Jun2025 01:20:46.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[30Jun2025 01:20:59.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:59675] logged in with entity id 6214 at (101.30000001192093, 25.0, 5004.808697831534)
+[30Jun2025 01:20:59.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[30Jun2025 01:21:31.907] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
+[30Jun2025 01:21:31.908] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
+[30Jun2025 01:22:10.316] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blaze_storm
+[30Jun2025 01:22:10.316] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.BlazeStormSpell@e4a3e556
+[30Jun2025 01:22:15.280] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:poison_splash
+[30Jun2025 01:22:15.280] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.PoisonSplashSpell@75fdcfa8
+[30Jun2025 01:23:21.224] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
+[30Jun2025 01:23:21.224] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
