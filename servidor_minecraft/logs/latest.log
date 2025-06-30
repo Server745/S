@@ -2752,3 +2752,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [30Jun2025 15:04:07.346] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
 [30Jun2025 15:04:07.347] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
 [30Jun2025 15:11:47.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16628, l='ServerLevel[world]', x=187.69, y=69.00, z=6033.70] died, message: 'Villager hit the ground too hard'
+[30Jun2025 15:31:28.287] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blaze_storm
+[30Jun2025 15:31:28.287] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.BlazeStormSpell@e4a3e556
+[30Jun2025 15:42:26.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16630, l='ServerLevel[world]', x=187.51, y=69.00, z=6033.70] died, message: 'Villager hit the ground too hard'
+[30Jun2025 15:45:57.873] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wisp
+[30Jun2025 15:45:57.873] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.WispSpell@9f9940d9
+[30Jun2025 15:46:01.972] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[30Jun2025 15:46:01.973] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
