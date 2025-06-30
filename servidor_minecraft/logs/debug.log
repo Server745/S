@@ -12348,3 +12348,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [30Jun2025 15:04:07.346] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [8726084d-7dd3-490c-88fe-dcbff2a1cbfc]
 [30Jun2025 15:04:07.346] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
 [30Jun2025 15:04:07.347] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
+[30Jun2025 15:06:05.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 15:06:05.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 15:11:05.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 15:11:05.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 15:11:47.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16628, l='ServerLevel[world]', x=187.69, y=69.00, z=6033.70] died, message: 'Villager hit the ground too hard'

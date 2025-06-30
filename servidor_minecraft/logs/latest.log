@@ -2751,3 +2751,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [30Jun2025 15:02:13.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Forester'/16634, l='ServerLevel[world]', x=220.58, y=81.00, z=6059.54] died, message: 'Forester was slain by Vampire Hunter'
 [30Jun2025 15:04:07.346] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
 [30Jun2025 15:04:07.347] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
+[30Jun2025 15:11:47.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16628, l='ServerLevel[world]', x=187.69, y=69.00, z=6033.70] died, message: 'Villager hit the ground too hard'
