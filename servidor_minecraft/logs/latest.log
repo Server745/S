@@ -2777,3 +2777,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [01Jul2025 19:42:19.542] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d781294[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:52285) lost connection: Disconnected
 [01Jul2025 19:42:49.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:45951] logged in with entity id 16395 at (-1253.155464082588, 112.0, 5321.1568448616945)
 [01Jul2025 19:42:49.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[01Jul2025 19:47:50.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Darude - Firestorm]
+[01Jul2025 19:48:20.047] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[01Jul2025 19:48:20.049] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[01Jul2025 19:49:02.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Hellish Paradise]
+[01Jul2025 19:49:12.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Nightmare Fuel]
+[01Jul2025 19:49:40.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Dust Settles]
+[01Jul2025 19:49:48.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Hellish Paradise]
+[01Jul2025 19:50:05.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The Dust Settles]
+[01Jul2025 19:51:21.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Hot Tourist Destinations]
+[01Jul2025 19:51:39.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The Soul Forge]
+[01Jul2025 19:51:42.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:-1771:94:2036:8:false:0:Internal-the-nether-waypoints
+[01Jul2025 19:51:54.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/23794, l='ServerLevel[world]', x=-1267.27, y=52.00, z=1686.44] died: Piglin Civilian suffocated in a wall
+[01Jul2025 19:52:50.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Soul Forge]
+[01Jul2025 19:52:51.914] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:root
+[01Jul2025 19:52:51.914] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.RootSpell@9f97110c
+[01Jul2025 19:54:04.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [The broken Nether's warmachine]

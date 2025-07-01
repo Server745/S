@@ -10339,8 +10339,10 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-07-01 19:50:05 +0000",
       "incendium:weeping_valley": "2025-06-30 03:45:07 +0000",
       "incendium:infernal_dunes": "2025-06-30 03:59:19 +0000",
+      "incendium:quartz_flats": "2025-07-01 19:49:48 +0000",
       "incendium:inverted_forest": "2025-06-30 18:26:16 +0000",
       "incendium:volcanic_deltas": "2025-06-30 17:27:31 +0000",
       "incendium:withered_forest": "2025-06-30 04:35:24 +0000"
@@ -10827,78 +10829,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 19:41:08 +0000"
-    },
-    "done": false
-  },
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2025-07-01 19:33:31 +0000"
@@ -10908,6 +10838,18 @@
   "legendary_monsters:defeat_withered_abomination": {
     "criteria": {
       "abomination": "2025-07-01 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-07-01 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-01 19:49:48 +0000"
     },
     "done": true
   },

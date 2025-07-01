@@ -9787,6 +9787,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-01 19:47:24 +0000",
       "minecraft:nether_wastes": "2025-06-27 03:14:00 +0000",
       "minecraft:soul_sand_valley": "2025-07-01 19:17:59 +0000",
       "minecraft:basalt_deltas": "2025-07-01 19:28:35 +0000"
@@ -13518,7 +13519,10 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-07-01 19:49:40 +0000",
+      "incendium:infernal_dunes": "2025-07-01 19:47:50 +0000",
       "incendium:weeping_valley": "2025-07-01 19:11:23 +0000",
+      "incendium:quartz_flats": "2025-07-01 19:49:02 +0000",
       "incendium:inverted_forest": "2025-07-01 19:10:54 +0000"
     },
     "done": false
@@ -13532,6 +13536,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-01 19:29:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-07-01 19:47:50 +0000"
     },
     "done": true
   },
@@ -13583,9 +13593,21 @@
     },
     "done": true
   },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-07-01 19:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-07-01 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-01 19:49:12 +0000"
     },
     "done": true
   },
@@ -13604,6 +13626,12 @@
   "legendary_monsters:defeat_withered_abomination": {
     "criteria": {
       "abomination": "2025-07-01 19:40:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-01 19:49:02 +0000"
     },
     "done": true
   },
