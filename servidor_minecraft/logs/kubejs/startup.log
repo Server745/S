@@ -1,7 +1,7 @@
-[13:18:47] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[13:18:47] [INIT] Loaded plugins:
-[13:18:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[13:18:47] [INIT] - com.squoshi.irons_spells_js.IronsSpellsJSPlugin
-[13:18:48] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[13:18:48] [INFO] Loaded script startup_scripts:example.js in 0.103 s
-[13:18:48] [INFO] Loaded 1/1 KubeJS startup scripts in 1.078 s with 0 errors and 0 warnings
+[18:53:46] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:53:46] [INIT] Loaded plugins:
+[18:53:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:53:46] [INIT] - com.squoshi.irons_spells_js.IronsSpellsJSPlugin
+[18:53:47] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[18:53:47] [INFO] Loaded script startup_scripts:example.js in 0.105 s
+[18:53:47] [INFO] Loaded 1/1 KubeJS startup scripts in 0.975 s with 0 errors and 0 warnings

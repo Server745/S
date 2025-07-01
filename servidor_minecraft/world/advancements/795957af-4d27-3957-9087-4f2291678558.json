@@ -10791,77 +10791,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
+      "has_block": "2025-07-01 18:59:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
+      "has_block": "2025-07-01 18:59:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
+      "has_block": "2025-07-01 18:59:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
+      "has_block": "2025-07-01 18:59:50 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 18:38:12 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
