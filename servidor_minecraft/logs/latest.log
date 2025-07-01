@@ -2687,3 +2687,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [01Jul2025 13:21:11.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:35245] logged in with entity id 140 at (240.57294411612384, 83.0, 5902.671504029159)
 [01Jul2025 13:21:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
 [01Jul2025 13:21:13.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[01Jul2025 13:51:27.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=66, z=5935} BlockPos{x=119, y=65, z=5934}
