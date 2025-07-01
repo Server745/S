@@ -13295,6 +13295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-01 14:57:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-01 13:44:40 +0000"
@@ -13304,6 +13310,12 @@
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-07-01 13:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-01 14:57:19 +0000"
     },
     "done": true
   },
@@ -13400,6 +13412,12 @@
   "cfm:recipes/decorations/birch_chair": {
     "criteria": {
       "has_log": "2025-07-01 13:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-01 14:57:19 +0000"
     },
     "done": true
   },
