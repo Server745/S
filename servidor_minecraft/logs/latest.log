@@ -2688,3 +2688,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [01Jul2025 13:21:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
 [01Jul2025 13:21:13.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
 [01Jul2025 13:51:27.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=66, z=5935} BlockPos{x=119, y=65, z=5934}
+[01Jul2025 14:08:44.236] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[01Jul2025 14:08:59.556] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_step
+[01Jul2025 14:08:59.556] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodStepSpell@5ae9361b
