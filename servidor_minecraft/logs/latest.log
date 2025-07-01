@@ -2701,3 +2701,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [01Jul2025 14:55:00.857] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
 [01Jul2025 14:55:16.705] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_slash
 [01Jul2025 14:55:16.706] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodSlashSpell@54caf722
+[01Jul2025 15:28:23.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/29838, l='ServerLevel[world]', x=173.70, y=85.50, z=5960.05] died, message: 'Librarian hit the ground too hard'
