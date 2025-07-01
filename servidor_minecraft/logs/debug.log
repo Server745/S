@@ -17968,3 +17968,163 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [01Jul2025 21:03:42.673] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
 [01Jul2025 21:03:42.674] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
 [01Jul2025 21:03:42.676] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[01Jul2025 21:05:47.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[01Jul2025 21:06:07.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[01Jul2025 21:06:15.189] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.71 and blood value 15 for entity iceandfire:myrmex_royal
+[01Jul2025 21:06:16.266] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.71 and blood value 15 for entity iceandfire:myrmex_royal
+[01Jul2025 21:06:22.139] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.71 and blood value 15 for entity iceandfire:myrmex_royal
+[01Jul2025 21:06:29.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 21:06:29.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 21:08:30.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Free Willy]
+[01Jul2025 21:08:30.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Best Friends Forever]
+[01Jul2025 21:08:51.761] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/73134, l='ServerLevel[world]', x=968.50, y=51.00, z=5861.50]
+[01Jul2025 21:08:52.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8265152584847287
+[01Jul2025 21:08:52.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8265152584847287
+[01Jul2025 21:08:52.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8276570715585453
+[01Jul2025 21:08:52.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8276570715585453
+[01Jul2025 21:08:52.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8289482878978522
+[01Jul2025 21:08:53.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8303917630926325
+[01Jul2025 21:08:53.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8303917630926325
+[01Jul2025 21:08:53.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 1.660823226824224
+[01Jul2025 21:08:53.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8304535473005521
+[01Jul2025 21:08:54.782] [Worker-Main-42/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 51.397s
+[01Jul2025 21:09:00.056] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[01Jul2025 21:09:06.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jul2025 21:09:14.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jul2025 21:09:21.394] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jul2025 21:10:30.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.12 and blood value 15 for entity irons_spellbooks:spectral_steed
+[01Jul2025 21:11:02.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.33761126316221635
+[01Jul2025 21:11:02.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.1942687642185774
+[01Jul2025 21:11:03.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.050926265277667
+[01Jul2025 21:11:03.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.9075837663385755
+[01Jul2025 21:11:03.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.7642412674003936
+[01Jul2025 21:11:10.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3769434431983108
+[01Jul2025 21:11:10.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.1896072888040692
+[01Jul2025 21:11:10.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.0246195290146893
+[01Jul2025 21:11:10.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.871584916355845
+[01Jul2025 21:11:10.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.7249458349083273
+[01Jul2025 21:11:10.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7711531181325798
+[01Jul2025 21:11:10.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7729840376423021
+[01Jul2025 21:11:10.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.6325722320545561
+[01Jul2025 21:11:10.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7744879380584588
+[01Jul2025 21:11:10.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.63488086541309
+[01Jul2025 21:11:11.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7749185208145392
+[01Jul2025 21:11:11.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.6355418517878526
+[01Jul2025 21:11:11.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7750418012540182
+[01Jul2025 21:11:11.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.6357310992419716
+[01Jul2025 21:11:11.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7750770977597117
+[01Jul2025 21:11:11.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7750836809780617
+[01Jul2025 21:11:11.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.635795388686656
+[01Jul2025 21:11:11.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.49651302086777
+[01Jul2025 21:11:11.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7750900969150335
+[01Jul2025 21:11:11.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.775090636566612
+[01Jul2025 21:11:11.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.6358060661916949
+[01Jul2025 21:11:11.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.761348146585372
+[01Jul2025 21:11:11.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7724938749838887
+[01Jul2025 21:11:11.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7835967703002489
+[01Jul2025 21:11:11.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7909463307294433
+[01Jul2025 21:11:11.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.5152286558049392
+[01Jul2025 21:11:11.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.9786024163443121
+[01Jul2025 21:11:11.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.3986871071628488
+[01Jul2025 21:11:11.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.4164879082265287
+[01Jul2025 21:11:11.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.4162058830416129
+[01Jul2025 21:11:12.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.8447083125526405
+[01Jul2025 21:11:12.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.415974230167663
+[01Jul2025 21:11:12.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.41593102415394867
+[01Jul2025 21:11:12.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.8442863821542801
+[01Jul2025 21:11:12.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3885324994139598
+[01Jul2025 21:11:12.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.5426675957705694
+[01Jul2025 21:11:12.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.6466085446813827
+[01Jul2025 21:11:12.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.4373293173294224
+[01Jul2025 21:11:12.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7375982667870189
+[01Jul2025 21:11:12.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3548289057880184
+[01Jul2025 21:11:29.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 21:11:29.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 21:11:48.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[01Jul2025 21:12:20.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 3.0310424059329493
+[01Jul2025 21:12:21.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3278769134310985
+[01Jul2025 21:12:21.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7164750799704634
+[01Jul2025 21:12:23.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6333407045234128
+[01Jul2025 21:12:23.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7048594100277545
+[01Jul2025 21:12:24.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7659175484721733
+[01Jul2025 21:12:24.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.82147414661691
+[01Jul2025 21:12:25.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8285868783947735
+[01Jul2025 21:12:25.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8297015223814138
+[01Jul2025 21:12:25.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8299534264978623
+[01Jul2025 21:12:26.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8300761744743945
+[01Jul2025 21:12:26.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8304571792409825
+[01Jul2025 21:12:27.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8304843405919209
+[01Jul2025 21:12:28.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.830507167476495
+[01Jul2025 21:12:29.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8305084478526003
+[01Jul2025 21:12:30.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.827222429756439
+[01Jul2025 21:12:31.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8277424699712247
+[01Jul2025 21:13:17.709] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/82701, l='ServerLevel[world]', x=-150.50, y=45.00, z=7725.50]
+[01Jul2025 21:13:35.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.7780188918717073
+[01Jul2025 21:13:35.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.8024798844454205
+[01Jul2025 21:13:36.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved wrongly! 0.7627114206319833
+[01Jul2025 21:13:36.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=39, z=7754} BlockPos{x=-88, y=40, z=7754}
+[01Jul2025 21:13:37.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -12.275094216346588,-0.5904323817988057,-13.225509394715118
+[01Jul2025 21:13:37.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -11.692252535346825,-0.5904323817988057,-12.637255912117325
+[01Jul2025 21:13:37.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -11.69092824667132,-0.5904323817988057,-12.637719440571345
+[01Jul2025 21:13:37.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -11.10670627183913,-0.5904323817988057,-12.050087715511836
+[01Jul2025 21:13:38.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -10.52191375306461,-0.5904323817988057,-11.462712993698915
+[01Jul2025 21:13:38.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -9.935985126194282,-0.5904323817988057,-10.876207615349813
+[01Jul2025 21:13:38.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -9.348844809327375,-0.5904323817988057,-10.290684511053769
+[01Jul2025 21:13:38.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -8.760635781883593,-0.5904323817988057,-9.706027772472225
+[01Jul2025 21:13:38.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -8.171484151710956,-0.5904323817988057,-9.122135168451678
+[01Jul2025 21:13:38.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -7.581501145931497,-0.5904323817988057,-8.53891653111259
+[01Jul2025 21:13:38.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of camilxdk1) moved too quickly! -6.990784866866761,-0.5904323817988057,-7.95629233238742
+[01Jul2025 21:13:59.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 4.171936309406161
+[01Jul2025 21:13:59.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3561513980525188
+[01Jul2025 21:13:59.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3561513980525188
+[01Jul2025 21:13:59.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3561513980525188
+[01Jul2025 21:13:59.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6317700941448056
+[01Jul2025 21:13:59.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6630696997027523
+[01Jul2025 21:14:00.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7213514648691922
+[01Jul2025 21:14:01.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8001669039146331
+[01Jul2025 21:14:02.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8118368654403342
+[01Jul2025 21:14:04.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8296379380487174
+[01Jul2025 21:14:04.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8303908168132222
+[01Jul2025 21:14:10.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7629842850991971
+[01Jul2025 21:14:13.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7279104740693024
+[01Jul2025 21:14:13.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.710729008809601
+[01Jul2025 21:14:13.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6581786350432103
+[01Jul2025 21:14:13.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6581786350432103
+[01Jul2025 21:14:16.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.4029045450025824
+[01Jul2025 21:14:47.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3279121168779544
+[01Jul2025 21:14:47.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3872181809083588
+[01Jul2025 21:14:57.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.2816798631265384
+[01Jul2025 21:14:58.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.33862762880870295
+[01Jul2025 21:15:02.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.32833825362055064
+[01Jul2025 21:15:02.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.32833825362055064
+[01Jul2025 21:15:04.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.25693230032765124
+[01Jul2025 21:15:04.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3823789422355653
+[01Jul2025 21:15:04.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.5162737963124853
+[01Jul2025 21:15:04.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.62376377295368
+[01Jul2025 21:15:13.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.338832860937572
+[01Jul2025 21:15:13.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.338832860937572
+[01Jul2025 21:15:15.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.4992941791049873
+[01Jul2025 21:15:23.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.2655062912464849
+[01Jul2025 21:15:23.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3321480915884481
+[01Jul2025 21:15:24.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.5288923350765729
+[01Jul2025 21:15:24.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.5288923350765729
+[01Jul2025 21:15:26.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.806310161047496
+[01Jul2025 21:15:26.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8208495335718988
+[01Jul2025 21:15:26.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8217787340500458
+[01Jul2025 21:15:26.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8150948758107882
+[01Jul2025 21:15:26.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8150948758107882
+[01Jul2025 21:15:31.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6439083243950283
+[01Jul2025 21:15:31.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.5622451590207764
+[01Jul2025 21:15:31.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6464452560956409
+[01Jul2025 21:15:31.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6464452560956409
+[01Jul2025 21:15:31.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.6464452560956409
+[01Jul2025 21:15:31.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.506679494159098
+[01Jul2025 21:15:31.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7042173818069293
+[01Jul2025 21:15:32.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7540814475537698
+[01Jul2025 21:15:32.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7897150955859825
+[01Jul2025 21:15:33.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.8226534511582074
+[01Jul2025 21:15:34.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.7958035552661041
+[01Jul2025 21:15:39.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3697951270678459
+[01Jul2025 21:15:39.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Zairac74509) moved wrongly! 0.3143259870339534
+[01Jul2025 21:16:29.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 21:16:29.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

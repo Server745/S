@@ -10880,5 +10880,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-01 21:08:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-07-01 21:08:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
