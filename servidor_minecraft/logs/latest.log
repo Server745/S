@@ -2693,3 +2693,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [01Jul2025 14:08:59.556] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodStepSpell@5ae9361b
 [01Jul2025 14:17:17.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=67, z=5936} BlockPos{x=237, y=71, z=5927}
 [01Jul2025 14:45:25.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Florist'/24415, l='ServerLevel[world]', x=249.30, y=71.00, z=5996.70] died, message: 'Florist hit the ground too hard'
+[01Jul2025 14:54:08.453] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
+[01Jul2025 14:54:08.454] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
+[01Jul2025 14:54:56.901] [Server thread/INFO] [irons_spells_js/]: traveloptics:ashen_breath
+[01Jul2025 14:54:56.901] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.evocation.AshenBreathSpell@8454c60
+[01Jul2025 14:55:00.857] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
+[01Jul2025 14:55:00.857] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
+[01Jul2025 14:55:16.705] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_slash
+[01Jul2025 14:55:16.706] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodSlashSpell@54caf722
