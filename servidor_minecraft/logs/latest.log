@@ -2710,3 +2710,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [01Jul2025 18:57:43.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5901ms or 118 ticks behind
 [01Jul2025 19:01:45.060] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
 [01Jul2025 19:01:45.060] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
+[01Jul2025 19:04:16.364] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_step
+[01Jul2025 19:04:16.365] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodStepSpell@5ae9361b
+[01Jul2025 19:05:17.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -1.3406889099043156,-1.252203340253729,-9.992061044381444
+[01Jul2025 19:07:39.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[01Jul2025 19:09:35.710] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
+[01Jul2025 19:09:35.710] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
+[01Jul2025 19:09:40.007] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:healing_circle
+[01Jul2025 19:09:40.008] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealingCircleSpell@3974fbdf
+[01Jul2025 19:09:42.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[01Jul2025 19:09:42.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[01Jul2025 19:09:50.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:59243] logged in with entity id 5619 at (-2162.3176000010253, 77.0, 6218.5)
+[01Jul2025 19:09:50.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[01Jul2025 19:10:02.209] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
+[01Jul2025 19:10:02.209] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
+[01Jul2025 19:10:03.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[01Jul2025 19:10:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[01Jul2025 19:10:32.601] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7825b6be[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.94.87.232:57867) lost connection: Disconnected
+[01Jul2025 19:10:38.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:47313] logged in with entity id 5686 at (-2162.3176000010253, 77.0, 6218.5)
+[01Jul2025 19:10:39.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[01Jul2025 19:10:54.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Strange Biomes]
+[01Jul2025 19:11:02.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Those Were the Days]
+[01Jul2025 19:15:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Fiery Beast]
+[01Jul2025 19:16:57.221] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_slash
+[01Jul2025 19:16:57.221] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodSlashSpell@54caf722
+[01Jul2025 19:17:02.922] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blaze_storm
+[01Jul2025 19:17:02.922] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.BlazeStormSpell@e4a3e556
+[01Jul2025 19:17:39.540] [Server thread/INFO] [irons_spells_js/]: traveloptics:aqua_missiles
+[01Jul2025 19:17:39.541] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.AquaMissilesSpell@ab616390
+[01Jul2025 19:17:39.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -0.20902277282380055,-16.54813075353718,-0.04523554649676953
+[01Jul2025 19:17:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 0.0,-29.78663535636693,0.0
+[01Jul2025 19:17:40.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 0.0,-15.25075730245986,0.0
+[01Jul2025 19:18:41.200] [Server thread/INFO] [irons_spells_js/]: traveloptics:ashen_breath
+[01Jul2025 19:18:41.200] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.evocation.AshenBreathSpell@8454c60
+[01Jul2025 19:18:42.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Through the Gauntlet]
+[01Jul2025 19:21:25.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Hot Stuff]
+[01Jul2025 19:22:07.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Apparitions]
+[01Jul2025 19:22:07.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8720, l='ServerLevel[world]', x=-1923.08, y=31.86, z=6293.64] died: Restless Spirit was slain by Zairac74509
+[01Jul2025 19:26:28.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/9122, l='ServerLevel[world]', x=-1917.41, y=-20.00, z=6369.48] died: Restless Spirit was killed
+[01Jul2025 19:26:28.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/9125, l='ServerLevel[world]', x=-1906.01, y=-20.00, z=6371.99] died: Restless Spirit was killed
+[01Jul2025 19:26:33.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -0.5036118472789894,-9.149424088213685,4.099062412893545
+[01Jul2025 19:26:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [War Pigs]
+[01Jul2025 19:27:31.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[01Jul2025 19:27:31.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[01Jul2025 19:27:31.515] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 19:28:39.551] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55496479[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:51249) lost connection: Disconnected
+[01Jul2025 19:28:52.499] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@252c4e95[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:56737) lost connection: Disconnected
+[01Jul2025 19:29:29.051] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@214cca52[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:38503): Took too long to log in
+[01Jul2025 19:29:29.051] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@214cca52[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:38503) lost connection: Took too long to log in
+[01Jul2025 19:29:29.098] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 19:29:58.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Spooky Scary Skeleton]
+[01Jul2025 19:30:09.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6b48849b[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:55061): Took too long to log in
+[01Jul2025 19:30:09.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b48849b[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:55061) lost connection: Took too long to log in
+[01Jul2025 19:30:09.199] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 19:30:34.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10475, l='ServerLevel[world]', x=-1773.69, y=-20.00, z=6394.12] died: Restless Spirit was killed
+[01Jul2025 19:30:57.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:33523] logged in with entity id 11438 at (-1922.2794580486436, 41.408006235655805, 6400.5999999940395)
+[01Jul2025 19:30:57.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[01Jul2025 19:31:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Straddle My Ol' Saddle]
+[01Jul2025 19:33:31.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The Soul Fortress]
+[01Jul2025 19:34:05.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [The Soul Eater]
+[01Jul2025 19:34:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:-1710:112:6080:2:false:0:Internal-the-nether-waypoints
+[01Jul2025 19:36:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Soul Fortress]
+[01Jul2025 19:40:33.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [The Soul Eater]
+[01Jul2025 19:41:28.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[01Jul2025 19:41:28.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[01Jul2025 19:42:19.542] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d781294[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:52285) lost connection: Disconnected
+[01Jul2025 19:42:49.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:45951] logged in with entity id 16395 at (-1253.155464082588, 112.0, 5321.1568448616945)
+[01Jul2025 19:42:49.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game

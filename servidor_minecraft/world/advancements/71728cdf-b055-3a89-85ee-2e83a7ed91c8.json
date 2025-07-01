@@ -809,11 +809,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-24 21:54:42 +0000",
+      "minecraft:blaze": "2025-07-01 19:28:33 +0000",
       "minecraft:skeleton": "2025-06-24 22:57:08 +0000",
       "minecraft:ravager": "2025-06-26 00:50:43 +0000",
       "minecraft:ghast": "2025-06-29 00:00:21 +0000",
       "minecraft:vindicator": "2025-06-26 00:51:10 +0000",
       "minecraft:spider": "2025-06-25 22:07:25 +0000",
+      "minecraft:piglin_brute": "2025-07-01 19:26:45 +0000",
       "minecraft:creeper": "2025-06-25 23:54:16 +0000",
       "minecraft:evoker": "2025-06-27 02:42:01 +0000",
       "minecraft:phantom": "2025-06-29 20:09:54 +0000",
@@ -4675,6 +4677,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2025-06-30 04:25:47 +0000",
+      "cartographytable": "2025-07-01 19:34:25 +0000",
       "brewingstand": "2025-06-24 22:29:55 +0000",
       "smithingtable": "2025-06-26 01:33:26 +0000",
       "smoker": "2025-06-29 01:47:57 +0000",
@@ -9784,7 +9787,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-06-27 03:14:00 +0000"
+      "minecraft:nether_wastes": "2025-06-27 03:14:00 +0000",
+      "minecraft:soul_sand_valley": "2025-07-01 19:17:59 +0000",
+      "minecraft:basalt_deltas": "2025-07-01 19:28:35 +0000"
     },
     "done": false
   },
@@ -13490,6 +13495,127 @@
   "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
     "criteria": {
       "has_block": "2025-07-01 15:36:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-07-01 19:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-01 19:21:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-01 19:31:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-07-01 19:11:23 +0000",
+      "incendium:inverted_forest": "2025-07-01 19:10:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 19:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-01 19:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-01 19:29:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-07-01 19:21:25 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-07-01 19:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-01 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-07-01 19:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-01 19:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-01 19:26:47 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-07-01 19:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-01 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-01 19:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-01 19:26:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-07-01 19:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-01 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-01 19:11:02 +0000"
     },
     "done": true
   },
