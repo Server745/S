@@ -2832,3 +2832,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [01Jul2025 20:28:21.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:60255] logged in with entity id 42671 at (-1832.5, 38.0, 2038.3574777050917)
 [01Jul2025 20:28:21.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
 [01Jul2025 20:30:05.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
+[01Jul2025 20:39:57.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[01Jul2025 20:39:57.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[01Jul2025 20:40:04.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:46219] logged in with entity id 45864 at (-1825.4911997917648, 37.0, 2039.2506176575237)
+[01Jul2025 20:40:04.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[01Jul2025 20:40:22.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[01Jul2025 20:40:22.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[01Jul2025 20:41:50.758] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f96b5a7[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:48451) lost connection: Disconnected
+[01Jul2025 20:42:04.096] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68acf9cb[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:34773) lost connection: Disconnected
+[01Jul2025 20:42:23.000] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34fdca4a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:36303) lost connection: Disconnected
+[01Jul2025 20:42:45.948] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f055774[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:56659) lost connection: Disconnected
+[01Jul2025 20:43:16.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:46089] logged in with entity id 46551 at (-14675.5, -10.0, 16301.422964710056)
+[01Jul2025 20:43:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[01Jul2025 20:52:48.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[01Jul2025 20:52:48.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[01Jul2025 20:54:14.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:42147] logged in with entity id 54774 at (-14637.22070109033, -28.0, 16335.156473290815)
+[01Jul2025 20:54:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[01Jul2025 20:55:39.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[01Jul2025 20:58:10.009] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
+[01Jul2025 20:58:10.009] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
+[01Jul2025 21:00:20.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/60226, l='ServerLevel[world]', x=-4647.25, y=65.00, z=2353.49] died, message: 'Forester was slain by Zombie'
+[01Jul2025 21:01:16.666] [Server thread/INFO] [irons_spells_js/]: traveloptics:coral_barrage
+[01Jul2025 21:01:16.666] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.CoralBarrageSpell@2723932

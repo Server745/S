@@ -13503,36 +13503,6 @@
     },
     "done": true
   },
-  "incendium:withered_forest/kill_spirit": {
-    "criteria": {
-      "requirement": "2025-07-01 19:22:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "glow_berries": "2025-07-01 20:17:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-01 19:21:25 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-07-01 20:01:48 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-07-01 19:31:54 +0000"
-    },
-    "done": true
-  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-07-01 19:49:40 +0000",
@@ -13543,63 +13513,15 @@
     },
     "done": false
   },
-  "cfm:recipes/decorations/azalea_hedge": {
+  "incendium:misc/root": {
     "criteria": {
-      "has_leaves": "2025-07-01 20:03:27 +0000"
+      "incendium:inverted_forest": "2025-07-01 19:10:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_smithing_trim_template": "2025-07-01 19:22:35 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-07-01 19:52:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-07-01 19:29:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-07-01 19:47:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
-    "criteria": {
-      "has_moss_block": "2025-07-01 20:01:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-01 20:01:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-07-01 19:29:58 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/flowering_azalea_hedge": {
-    "criteria": {
-      "has_leaves": "2025-07-01 20:03:27 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-07-01 19:21:25 +0000"
+      "bastion": "2025-07-01 19:11:02 +0000"
     },
     "done": true
   },
@@ -13609,63 +13531,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_basalt": "2025-07-01 19:31:58 +0000"
+      "lava_bucket": "2025-07-01 19:21:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
-      "has_polished_blackstone_slab": "2025-07-01 19:53:45 +0000"
+      "has_lava_bucket": "2025-07-01 19:21:25 +0000"
     },
     "done": true
   },
-  "incendium:misc/root": {
+  "incendium:withered_forest/kill_spirit": {
     "criteria": {
-      "incendium:inverted_forest": "2025-07-01 19:10:54 +0000"
+      "requirement": "2025-07-01 19:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 19:22:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-07-01 19:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-07-01 19:26:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-07-01 20:01:48 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_soul_fortress_remains": {
-    "criteria": {
-      "soul_fortress": "2025-07-01 19:36:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/root": {
-    "criteria": {
-      "requirement": "2025-07-01 19:49:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-07-01 19:31:58 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-07-01 19:49:12 +0000"
     },
     "done": true
   },
@@ -13681,21 +13573,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "has_moss_block": "2025-07-01 20:01:48 +0000"
+      "loot_bastion_other": "2025-07-01 19:26:47 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_withered_abomination": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "abomination": "2025-07-01 19:40:33 +0000"
+      "wither_skull": "2025-07-01 19:29:58 +0000"
     },
     "done": true
   },
-  "incendium:quartz_flats/root": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "requirement": "2025-07-01 19:49:02 +0000"
+      "has_wither_skeleton_skull": "2025-07-01 19:29:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-01 19:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-01 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-01 19:31:58 +0000"
     },
     "done": true
   },
@@ -13705,15 +13615,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
-      "has_moss_block": "2025-07-01 20:01:48 +0000"
+      "soul_fortress": "2025-07-01 19:36:12 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "legendary_monsters:defeat_withered_abomination": {
     "criteria": {
-      "bastion": "2025-07-01 19:11:02 +0000"
+      "abomination": "2025-07-01 19:40:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-07-01 19:47:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-01 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-01 19:49:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-07-01 19:49:40 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-07-01 19:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-07-01 19:53:45 +0000"
     },
     "done": true
   },
@@ -13722,6 +13668,60 @@
       "travelled": "2025-07-01 20:00:03 +0000"
     },
     "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-01 20:01:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-07-01 20:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-01 20:01:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-01 20:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-01 20:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-01 20:01:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/azalea_hedge": {
+    "criteria": {
+      "has_leaves": "2025-07-01 20:03:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/flowering_azalea_hedge": {
+    "criteria": {
+      "has_leaves": "2025-07-01 20:03:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-07-01 20:17:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
