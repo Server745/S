@@ -3043,3 +3043,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 21:34:44.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Endermite['Pablo'/57693, l='ServerLevel[world]', x=-307.49, y=48.16, z=-48.50] died: Pablo was killed by Zairac74509 using magic
 [02Jul2025 21:36:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Weird Fishes/Arpeggi]
 [02Jul2025 21:37:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Weird Fishes/Arpeggi]
+[02Jul2025 21:48:32.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sandstone Bomb]

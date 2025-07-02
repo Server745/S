@@ -11523,6 +11523,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_bomber": {
+    "criteria": {
+      "ambusher": "2025-07-02 21:48:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-07-02 20:36:34 +0000"
