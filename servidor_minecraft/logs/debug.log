@@ -13197,3 +13197,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 20:45:52.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20896, l='ServerLevel[world]', x=-1097.50, y=82.00, z=1777.43] died, message: 'death.attack.traveloptics.aqua_missiles'
 [02Jul2025 20:45:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Bad Deal]
 [02Jul2025 20:47:11.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 0.11828649370943367,-10.806526110009003,-0.7293890724540688
+[02Jul2025 20:48:59.077] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e0a13ca9-f102-483e-8d81-60567dfabc81]
+[02Jul2025 20:49:00.368] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e0a13ca9-f102-483e-8d81-60567dfabc81]
+[02Jul2025 20:49:01.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:49:01.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:49:10.467] [Server thread/INFO] [irons_spells_js/]: traveloptics:summon_desert_dwellers
+[02Jul2025 20:49:10.468] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.holy.SummonDesertDwellers@cd7597e0
+[02Jul2025 20:50:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [The Calm After the Storm]
+[02Jul2025 20:54:01.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:54:01.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:55:08.437] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:rain_frog
+[02Jul2025 20:56:17.763] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
+[02Jul2025 20:56:17.763] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b

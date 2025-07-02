@@ -9570,6 +9570,7 @@
   "cataclysm:kill_all_bosses": {
     "criteria": {
       "cataclysm:netherite_monstrosity": "2025-07-01 19:54:04 +0000",
+      "cataclysm:scylla": "2025-07-02 20:50:20 +0000",
       "cataclysm:ancient_remnant": "2025-06-29 02:08:08 +0000"
     },
     "done": false
@@ -11126,9 +11127,27 @@
     },
     "done": true
   },
+  "cataclysm:kill_scylla": {
+    "criteria": {
+      "ignis": "2025-07-02 20:50:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_clawdian": {
+    "criteria": {
+      "endergolem": "2025-07-02 20:45:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-02 20:10:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-07-02 20:44:30 +0000"
     },
     "done": true
   },
