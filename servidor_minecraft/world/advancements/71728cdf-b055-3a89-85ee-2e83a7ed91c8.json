@@ -830,6 +830,7 @@
       "minecraft:piglin": "2025-06-27 03:15:42 +0000",
       "minecraft:silverfish": "2025-06-27 02:38:14 +0000",
       "minecraft:enderman": "2025-06-27 03:38:20 +0000",
+      "minecraft:endermite": "2025-07-02 21:34:44 +0000",
       "minecraft:vex": "2025-06-27 02:43:09 +0000",
       "minecraft:zombie": "2025-06-24 17:43:36 +0000",
       "minecraft:drowned": "2025-06-26 01:06:39 +0000"
@@ -13874,9 +13875,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-07-02 21:37:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-07-02 21:07:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-02 21:29:33 +0000"
     },
     "done": true
   },

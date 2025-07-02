@@ -3040,3 +3040,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 21:27:32.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.4827731038961929
 [02Jul2025 21:27:32.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.32298759576417524
 [02Jul2025 21:27:33.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.32344430679358993
+[02Jul2025 21:34:44.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Endermite['Pablo'/57693, l='ServerLevel[world]', x=-307.49, y=48.16, z=-48.50] died: Pablo was killed by Zairac74509 using magic
+[02Jul2025 21:36:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Weird Fishes/Arpeggi]
+[02Jul2025 21:37:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Weird Fishes/Arpeggi]
