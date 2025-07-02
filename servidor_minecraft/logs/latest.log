@@ -3050,3 +3050,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 22:27:49.292] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: WarpModeRejected
 [02Jul2025 22:30:59.674] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
 [02Jul2025 22:30:59.674] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
+[02Jul2025 22:49:39.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was slain by Ancient Remnant
+[02Jul2025 22:50:41.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
