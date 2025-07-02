@@ -3046,3 +3046,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 21:48:32.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sandstone Bomb]
 [02Jul2025 21:50:39.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Portable Storage]
 [02Jul2025 22:05:49.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Endermite['Pablo'/76393, l='ServerLevel[world]', x=-307.50, y=4.84, z=-48.49] died: Pablo hit the ground too hard
+[02Jul2025 22:10:31.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 fell out of the world
