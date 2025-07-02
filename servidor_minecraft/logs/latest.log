@@ -2857,3 +2857,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 18:38:09.761] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.holy.SummonDesertDwellers@cd7597e0
 [02Jul2025 18:38:23.714] [Server thread/INFO] [irons_spells_js/]: traveloptics:tidal_grasp
 [02Jul2025 18:38:23.714] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.TidalGraspSpell@766d6f8e
+[02Jul2025 18:40:40.690] [Server thread/INFO] [irons_spells_js/]: traveloptics:hydroshot
+[02Jul2025 18:40:40.691] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.HydroshotSpell@54867f4a
+[02Jul2025 18:40:42.040] [Server thread/INFO] [irons_spells_js/]: traveloptics:flood_slash
+[02Jul2025 18:40:42.041] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.FloodSlashSpell@957dbb5c
+[02Jul2025 18:40:46.942] [Server thread/INFO] [irons_spells_js/]: traveloptics:bubble_spray
+[02Jul2025 18:40:46.942] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.BubbleSpraySpell@2bd2389a
+[02Jul2025 18:40:52.242] [Server thread/INFO] [irons_spells_js/]: traveloptics:tsunami
+[02Jul2025 18:40:52.242] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.TsunamiSpell@4fb5eac5
+[02Jul2025 18:40:54.393] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ascension
+[02Jul2025 18:40:54.393] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.AscensionSpell@9f1d20b9
+[02Jul2025 18:40:59.143] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ball_lightning
+[02Jul2025 18:40:59.143] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.BallLightningSpell@5586b0b4
+[02Jul2025 18:41:02.341] [Server thread/INFO] [irons_spells_js/]: traveloptics:rainfall
+[02Jul2025 18:41:02.342] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.RainfallSpell@936ec26f
