@@ -13209,3 +13209,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 20:55:08.437] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:rain_frog
 [02Jul2025 20:56:17.763] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
 [02Jul2025 20:56:17.763] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
+[02Jul2025 20:59:01.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:59:01.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 21:02:59.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[02Jul2025 21:02:59.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ifficulty default<--[HERE]
+[02Jul2025 21:03:04.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Normal
+[02Jul2025 21:04:01.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 21:04:01.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
