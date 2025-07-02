@@ -2889,3 +2889,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 19:10:07.643] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.GustSpell@9f9227f9
 [02Jul2025 19:10:11.597] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
 [02Jul2025 19:10:11.597] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[02Jul2025 19:12:20.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Rigged from the Start]
+[02Jul2025 19:12:21.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -10.06912049333448,0.0,1.4728385686648835
+[02Jul2025 19:14:26.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:43563] logged in with entity id 106054 at (-8.420498260382347, 60.0, 2.9616525203326285)
+[02Jul2025 19:14:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[02Jul2025 19:16:19.842] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firecracker
+[02Jul2025 19:16:19.842] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FirecrackerSpell@6407391b
+[02Jul2025 19:16:20.891] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:invisibility
+[02Jul2025 19:16:20.891] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.InvisibilitySpell@35399621
+[02Jul2025 19:16:29.940] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:summon_vex
+[02Jul2025 19:16:29.940] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SummonVexSpell@a4326f75
+[02Jul2025 19:16:35.389] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:shield
+[02Jul2025 19:16:35.389] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.ShieldSpell@6989af93
+[02Jul2025 19:16:48.189] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fang_strike
+[02Jul2025 19:16:48.190] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FangStrikeSpell@6f9ac2c7
