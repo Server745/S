@@ -11006,6 +11006,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-07-02 18:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone": {
     "criteria": {
       "has_broken_bone": "2025-07-02 18:44:36 +0000"

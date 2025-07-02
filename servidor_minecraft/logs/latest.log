@@ -2871,3 +2871,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 18:40:59.143] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.BallLightningSpell@5586b0b4
 [02Jul2025 18:41:02.341] [Server thread/INFO] [irons_spells_js/]: traveloptics:rainfall
 [02Jul2025 18:41:02.342] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.RainfallSpell@936ec26f
+[02Jul2025 18:53:32.272] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
+[02Jul2025 18:53:32.273] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
+[02Jul2025 18:55:11.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Jennifer Dumped Me]
+[02Jul2025 18:59:05.083] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[02Jul2025 18:59:12.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
+[02Jul2025 18:59:13.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -8.042514037276959,-5.346555359268045,4.248662748216702
+[02Jul2025 18:59:25.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -10.049532114303872,0.934521434833556,-0.6857220555766617
+[02Jul2025 18:59:32.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[02Jul2025 18:59:32.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[02Jul2025 19:02:48.776] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jul2025 19:09:23.804] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:guiding_bolt
+[02Jul2025 19:09:23.805] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.GuidingBoltSpell@ecb08685
+[02Jul2025 19:09:23.810] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wisp
+[02Jul2025 19:09:23.810] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.WispSpell@9f9940d9
+[02Jul2025 19:10:07.643] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:gust
+[02Jul2025 19:10:07.643] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.GustSpell@9f9227f9
+[02Jul2025 19:10:11.597] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[02Jul2025 19:10:11.597] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
