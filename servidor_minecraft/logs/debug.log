@@ -13386,3 +13386,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [02Jul2025 22:27:49.292] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: WarpModeRejected
 [02Jul2025 22:29:01.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2025 22:29:01.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 22:30:41.827] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [1c8c1f57-3944-4bc3-b8a8-1e199e2225a1]
+[02Jul2025 22:30:48.282] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [1c8c1f57-3944-4bc3-b8a8-1e199e2225a1]
+[02Jul2025 22:30:59.674] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_punch 1: [1c8c1f57-3944-4bc3-b8a8-1e199e2225a1]
+[02Jul2025 22:30:59.674] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
+[02Jul2025 22:30:59.674] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
+[02Jul2025 22:34:01.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 22:34:01.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 22:39:01.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 22:39:01.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 22:39:32.653] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]

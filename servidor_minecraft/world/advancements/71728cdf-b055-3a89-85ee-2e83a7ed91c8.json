@@ -13893,6 +13893,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-07-02 22:38:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-07-02 21:07:06 +0000"
