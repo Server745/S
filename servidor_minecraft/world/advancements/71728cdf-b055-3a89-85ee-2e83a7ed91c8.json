@@ -12046,6 +12046,7 @@
   },
   "alexscaves:alexscaves/deep_one_items": {
     "criteria": {
+      "magic_conch": "2025-07-02 18:24:51 +0000",
       "sea_staff": "2025-06-29 01:07:12 +0000",
       "ortholance": "2025-06-29 01:33:39 +0000"
     },
@@ -13786,6 +13787,30 @@
   "alexscaves:alexscaves/bioluminesscence": {
     "criteria": {
       "bioluminesscence": "2025-07-02 18:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-02 18:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-02 18:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-02 18:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-02 18:17:56 +0000"
     },
     "done": true
   },
