@@ -2733,3 +2733,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [03Jul2025 15:54:53.781] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
 [03Jul2025 15:55:13.433] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
 [03Jul2025 15:55:13.433] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
+[03Jul2025 16:02:00.313] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:recall
+[03Jul2025 16:02:00.314] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.RecallSpell@67a7c73b
+[03Jul2025 16:08:53.851] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:gust
+[03Jul2025 16:08:53.852] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.GustSpell@9f9227f9
+[03Jul2025 16:09:32.757] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:icicle
+[03Jul2025 16:09:32.757] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ice.IcicleSpell@5832bc57
+[03Jul2025 16:09:35.957] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:raise_dead
+[03Jul2025 16:09:35.957] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RaiseDeadSpell@a68f3101
+[03Jul2025 16:09:37.409] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[03Jul2025 16:09:37.410] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[03Jul2025 16:09:39.055] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_missile
+[03Jul2025 16:09:39.056] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicMissileSpell@546364be
+[03Jul2025 16:09:49.157] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fang_ward
+[03Jul2025 16:09:49.157] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FangWardSpell@7f1ab451
+[03Jul2025 16:09:50.956] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[03Jul2025 16:09:50.956] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[03Jul2025 16:19:21.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Blood Cult]
+[03Jul2025 16:26:22.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[03Jul2025 16:26:22.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[03Jul2025 16:26:22.073] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

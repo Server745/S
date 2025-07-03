@@ -12284,3 +12284,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [03Jul2025 15:56:32.815] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.17 and blood value 0 for entity alexsmobs:flutter
 [03Jul2025 15:58:00.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 15:58:00.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 16:02:00.313] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:recall
+[03Jul2025 16:02:00.314] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.RecallSpell@67a7c73b
+[03Jul2025 16:02:05.784] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[03Jul2025 16:02:05.932] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[03Jul2025 16:02:05.982] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[03Jul2025 16:02:05.983] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[03Jul2025 16:02:08.683] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[03Jul2025 16:02:08.683] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[03Jul2025 16:03:00.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 16:03:00.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 16:03:35.120] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 50.561s
+[03Jul2025 16:06:52.730] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=218, y=71, z=5669}) doesn't have enough leaves around top most log
+[03Jul2025 16:08:00.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 16:08:00.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 16:08:53.851] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:gust
+[03Jul2025 16:08:53.852] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.GustSpell@9f9227f9
+[03Jul2025 16:09:32.757] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:icicle
+[03Jul2025 16:09:32.757] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ice.IcicleSpell@5832bc57
+[03Jul2025 16:09:35.957] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:raise_dead
+[03Jul2025 16:09:35.957] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RaiseDeadSpell@a68f3101
+[03Jul2025 16:09:37.409] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[03Jul2025 16:09:37.410] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[03Jul2025 16:09:39.055] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_missile
+[03Jul2025 16:09:39.056] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicMissileSpell@546364be
+[03Jul2025 16:09:46.865] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [d15eb53f-0786-465b-ab70-a05257144758]
+[03Jul2025 16:09:48.059] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [cbba8948-cd08-4f4c-ab53-b3d5368a79e5]
+[03Jul2025 16:09:49.157] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fang_ward
+[03Jul2025 16:09:49.157] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FangWardSpell@7f1ab451
+[03Jul2025 16:09:50.956] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[03Jul2025 16:09:50.956] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[03Jul2025 16:13:00.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 16:13:00.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 16:14:11.820] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 51.407s
+[03Jul2025 16:18:00.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 16:18:00.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 16:18:25.963] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 50.56s
+[03Jul2025 16:19:01.357] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['Zairac74509'/156, l='ServerLevel[world]', x=213.47, y=72.81, z=5669.33]
+[03Jul2025 16:19:01.405] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[03Jul2025 16:19:21.357] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Zairac74509 has new faction level vampirism:vampire 5
+[03Jul2025 16:19:21.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Blood Cult]
+[03Jul2025 16:23:00.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 16:23:00.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 16:25:15.927] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 33.63 and blood value 0 for entity alexsmobs:elephant
+[03Jul2025 16:25:36.678] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[03Jul2025 16:25:36.679] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[03Jul2025 16:26:22.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[03Jul2025 16:26:22.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[03Jul2025 16:26:22.073] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 16:28:00.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 16:28:00.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
