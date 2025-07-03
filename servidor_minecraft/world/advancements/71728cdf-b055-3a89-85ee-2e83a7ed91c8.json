@@ -820,6 +820,7 @@
       "minecraft:piglin_brute": "2025-07-01 19:26:45 +0000",
       "minecraft:creeper": "2025-06-25 23:54:16 +0000",
       "minecraft:evoker": "2025-06-27 02:42:01 +0000",
+      "minecraft:slime": "2025-07-03 15:50:35 +0000",
       "minecraft:phantom": "2025-06-29 20:09:54 +0000",
       "minecraft:zombified_piglin": "2025-06-27 14:49:30 +0000",
       "minecraft:witch": "2025-06-28 22:27:32 +0000",
@@ -13839,7 +13840,37 @@
     },
     "done": true
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-07-02 20:45:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-07-02 21:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-07-02 21:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-07-02 21:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-07-02 21:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-07-02 21:07:06 +0000"
     },
@@ -13851,33 +13882,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-07-02 21:07:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-07-02 21:07:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-07-02 21:07:06 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:kill_villager": {
-    "criteria": {
-      "killedvillager": "2025-07-02 20:45:52 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2025-07-02 21:37:18 +0000"
     },
     "done": true
   },
@@ -13893,21 +13900,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-07-02 21:37:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
       "has_leather_leggings": "2025-07-02 22:38:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_minecart": "2025-07-02 21:07:06 +0000"
+      "has_raw_silver": "2025-07-03 15:53:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
     "criteria": {
-      "has_minecart": "2025-07-02 21:07:06 +0000"
+      "has_item": "2025-07-03 15:52:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-03 15:53:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-03 15:53:49 +0000"
     },
     "done": true
   },
