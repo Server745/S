@@ -12459,6 +12459,7 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
+      "cataclysm:scylla": "2025-07-03 21:16:20 +0000",
       "cataclysm:the_leviathan": "2025-06-29 21:25:26 +0000"
     },
     "done": false
@@ -13994,6 +13995,12 @@
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-07-03 18:29:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_scylla": {
+    "criteria": {
+      "ignis": "2025-07-03 21:16:20 +0000"
     },
     "done": true
   },

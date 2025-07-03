@@ -2780,3 +2780,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [03Jul2025 21:07:02.085] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
 [03Jul2025 21:07:08.327] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_missile
 [03Jul2025 21:07:08.328] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicMissileSpell@546364be
+[03Jul2025 21:09:18.703] [Server thread/INFO] [irons_spells_js/]: traveloptics:solar_flare
+[03Jul2025 21:09:18.703] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.compat.spells.holy.SolarFlareSpell@7ab96d30
+[03Jul2025 21:12:39.984] [Server thread/INFO] [irons_spells_js/]: traveloptics:ashen_breath
+[03Jul2025 21:12:39.985] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.evocation.AshenBreathSpell@8454c60
+[03Jul2025 21:14:09.022] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:recall
+[03Jul2025 21:14:09.022] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.RecallSpell@67a7c73b
+[03Jul2025 21:14:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was electrocuted by Scylla
+[03Jul2025 21:14:49.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was electrocuted by Scylla
+[03Jul2025 21:15:39.747] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heat_surge
+[03Jul2025 21:15:39.747] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.HeatSurgeSpell@59840449
+[03Jul2025 21:16:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [The Calm After the Storm]
+[03Jul2025 21:18:40.780] [Server thread/INFO] [irons_spells_js/]: traveloptics:tidal_grasp
+[03Jul2025 21:18:40.780] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.TidalGraspSpell@766d6f8e
+[03Jul2025 21:18:47.127] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
+[03Jul2025 21:18:47.127] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
+[03Jul2025 21:19:23.175] [Server thread/INFO] [irons_spells_js/]: traveloptics:meteor_storm
+[03Jul2025 21:19:23.176] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.fire.MeteorStormSpell@376b9f6
+[03Jul2025 21:19:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[03Jul2025 21:25:49.979] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:guiding_bolt
+[03Jul2025 21:25:49.980] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.GuidingBoltSpell@ecb08685
+[03Jul2025 21:26:03.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was electrocuted by Scylla
+[03Jul2025 21:27:00.100] [Server thread/INFO] [irons_spells_js/]: traveloptics:floodgate
+[03Jul2025 21:27:00.100] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.FloodgateSpell@25b3cb29
+[03Jul2025 21:27:19.794] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:devour
+[03Jul2025 21:27:19.795] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.DevourSpell@4fccc741
+[03Jul2025 21:29:09.593] [Server thread/INFO] [irons_spells_js/]: traveloptics:call_forth_the_dead_king
+[03Jul2025 21:29:09.594] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.blood.CallForthTheDeadKingSpell@1fce81
+[03Jul2025 21:30:01.362] [Server thread/INFO] [irons_spells_js/]: traveloptics:orbital_void
+[03Jul2025 21:30:01.362] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.OrbitalVoidSpell@5f90e2fe
